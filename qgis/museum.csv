@@ -1,91 +1,91 @@
-id;WKT;name;score;ticket_coast;description;rating;is above Average 
-0;POINT (500830.797391137 5787526.44130426);Muzeum Etnograficzne;4.4;35;Eksponaty z całego świata w jednym miejscu;C;True
-1;POINT (500189.097681374 5788213.57157374);Żydowski Instytut Historyczny;4.5;26;Pamięć i historia społeczności żydowskiej;C;False
-2;POINT (500581.62558866 5789014.87430336);Muzeum Marii Skłodowskiej-Curie;4.5;28;Dom noblistki pełen naukowych pamiątek;C;False
-3;POINT (500777.519096203 5788841.55299175);Muzeum Warszawy;4.4;23;Poznaj historię stolicy od podszewki;C;False
-4;POINT (500845.576999823 5788869.63800154);Muzeum Literatury;4.4;35;Literacki świat w zabytkowych murach;C;True
-5;POINT (500639.83135249 5788094.81838843);Muzeum Teatralne;4.7;21;Kulisy i kostiumy polskiej sceny;B;False
-6;POINT (501615.755400812 5785243.06346866);Mauzoleum Walki i Męczeństwa;4.8;35;Cisza, która opowiada o cierpieniu;A;True
-7;POINT (498709.945981779 5786996.88630729);Muzeum Nurkowania;4.6;35;Podwodna przygoda bez wychodzenia z miasta;C;True
-8;POINT (500372.629842557 5781506.45466864);Muzeum Policji;4.6;28;Zajrzyj za kulisy policyjnej służby;C;False
-9;POINT (500713.350964883 5788818.49696596);Muzeum Cechu Rzemiosł Skórzanych;4.6;24;Tradycje rzemieślnicze sprzed wieków;C;False
-10;POINT (500781.835458666 5788743.41757573);Muzeum Farmacji;4.7;23;Leki i recepty sprzed stuleci;B;False
-11;POINT (500736.050509797 5788677.53046282);Muzeum Rzemiosł Artystycznych i Precyzyjnych;4.7;26;Sztuka i technika w jednym miejscu;B;False
-12;POINT (500590.333344612 5786463.16300666);Fotoplastikon Warszawski;4.5;26;Zajrzyj w przeszłość przez stereoskop;C;False
-13;POINT (500401.171388537 5786683.70760795);Narodowe Muzeum Techniki;4.4;33;Wynalazki, które zmieniały świat;C;True
-14;POINT (499044.766075179 5784483.63486296);Muzeum Geologiczne;4.5;22;Kamienie, skamieniałości i dinozaury;C;False
-15;POINT (501565.14560776 5787340.22425745);Muzeum Fryderyka Chopina;4.7;37;Muzyka w sercu Warszawy;B;True
-17;POINT (505655.471332677 5790581.1360611);Muzeum Liczników;4.6;39;Prąd, gaz i historia mierzenia;C;True
-18;POINT (504256.830321304 5788863.15530136);Muzeum Neonów;4.4;33;Świetlne wspomnienia PRL-u;C;True
-20;POINT (499787.78309004 5791532.21971691);Muzeum Sportu i Turystyki;4.5;27;Od igrzysk do wypraw górskich;C;False
-21;POINT (501914.209872735 5787970.21659795);"Parking podziemny CN ""Kopernik""";4.8;33;Ludzkie historie w wielkiej historii;A;True
-22;POINT (501140.882913646 5787998.75241015);Dom Spotkań z Historią;4.5;23;Pisarz i polityk w jednej osobie;C;False
-23;POINT (500372.335264261 5785243.77045344);Muzeum Andrzeja Struga;4.6;34;Wspólne dziedzictwo kontynentu;C;True
-24;POINT (500759.777309566 5787234.61383682);Spotkania z Europą;4.6;30;Duchowe ścieżki dwóch wielkich Polaków;C;True
-26;POINT (504914.370302589 5778676.17856923);Muzeum Jana Pawła II i Prymasa Wyszyńskiego;4.7;30;Świadectwo odwagi i wiary;B;True
-27;POINT (498914.504867074 5790796.77254604);Muzeum Jerzego Popiełuszki;4.7;25;Pamięć o bohaterze II wojny;B;False
-28;POINT (502364.202696907 5783642.52049738);Muzeum gen. Władysława Sikorskiego;4.6;36;Przygoda i wartości młodych pokoleń;C;True
-29;POINT (501792.8100835 5786420.84129169);Muzeum Harcerstwa;4.7;26;Zastrzyki i skalpele sprzed wieków;B;False
-30;POINT (499034.990681686 5784004.27145699);Muzeum Historii Medycyny;4.6;39;Solidarność i współdziałanie w praktyce;C;True
-31;POINT (500817.613197412 5787019.68741992);Muzeum Historii Spółdzielczości w Polsce;4.5;39;Prawdziwa świątynia kibica;C;True
-32;POINT (502779.735125823 5785659.36890552);Muzeum Legii Warszawa;4.6;27;Historia rolnictwa i edukacji;C;False
-33;POINT (503041.438726039 5779260.43772993);Muzeum SGGW;4.5;34;Tradycja akademicka i duchowa;C;True
-34;POINT (497270.477661439 5793877.73872801);Muzeum Uniwersytetu Kardynała Stefana Wyszyńskiego;4.8;37;Najstarsza uczelnia w nowym świetle;A;True
-35;POINT (501153.16428731 5787773.11929063);Muzeum Uniwersytetu Warszawskiego;4.7;39;Dzielnica z przeszłością robotniczą;B;True
-37;POINT (499299.118292563 5786384.61766667);Muzeum Woli;4.7;30;Sztuka i opowieści osób LGBTQ+;B;True
-40;POINT (500935.044553915 5786140.45714098);QueerMuzeum;4.6;29;Tropy i siodła z historii Polski;C;False
-41;POINT (502667.804326173 5784788.91158741);Muzeum Łowiectwa i Jeździectwa;4.6;20;Zakochaj się w prawej stronie miasta;C;False
-42;POINT (502683.653606732 5789024.67762855);Muzeum Warszawskiej Pragi;4.7;25;Sztuka sakralna i duchowość;B;False
-43;POINT (500954.358847739 5788702.07119308);Muzeum Archidiecezji Warszawskiej;4.6;35;Nowe idee, nowe formy;C;True
-47;POINT (500133.698997752 5786927.52551822);Muzeum Sztuki Nowoczesnej;4.7;36;Dźwięk flipperów w retro klimacie;B;True
-49;POINT (498524.969731315 5786018.14974384);Pinball Station;4.4;30;Złote monety i papierowa historia;C;True
-51;POINT (501001.029705239 5787309.01221743);Centrum Pieniądza NBP;4.8;24;Tradycja w każdej butelce;A;False
-54;POINT (503139.116940044 5789445.41974144);Muzeum Polskiej Wódki;4.6;23;Nie wierz swoim oczom!;C;False
-55;POINT (500797.292156369 5788781.88253909);Muzeum Świat Iluzji;4.7;35;Cela z historią niepodległości;B;True
-56;POINT (500031.288818669 5790711.33054082);Muzeum X Pawilonu Cytadeli;4.8;24;Legendy polskiej motoryzacji;A;False
-57;POINT (495121.079918475 5790526.36319694);Muzeum Polskiego Fiata;4.5;29;Barokowy pałac z duszą;C;False
-58;POINT (500276.580571978 5788324.38051774);Pałac Przebendowskich;4.8;35;Płomień historii przemysłu;A;True
-59;POINT (497696.807549741 5786236.62663698);Muzeum Gazowni Warszawskiej;4.5;31;Meble, mleko i magnetofony;C;True
-60;POINT (501121.565982924 5785892.27033325);Muzeum Życia w PRL;4.5;31;Z ruin do perełki UNESCO;C;True
-62;POINT (500896.806092516 5788861.66088216);Muzeum Odbudowy Starówki;4.8;30;Edukacja i misje na świecie;A;True
-63;POINT (500789.103532638 5776737.96957936);Muzeum Ośrodka Misyjnego Salezjanów;4.6;27;Miniaturowy świat wielkiej radości;C;False
-65;POINT (500818.872865693 5788899.01984057);Muzeum Domków Lalek, Gier i Zabawek;4.7;20;Zobacz niewidzialne — oczami wyobraźni;B;False
-67;POINT (499421.123691794 5786022.09040114);Niewidzialna Wystawa;4.7;38;Ikony pełne światła i modlitwy;B;True
-68;POINT (498319.845561913 5785132.70324547);Muzeum Ikon w Warszawie;4.7;22;Mosty jako dzieła sztuki inżynierii;B;False
-69;POINT (502091.759122974 5787739.44704514);Pontiseum;4.7;29;Wieś w walce i pracy;B;False
-70;POINT (502327.936701834 5780785.75131813);Muzeum Historii Polskiego Ruchu Ludowego;4.6;28;Wystawa o narodowej dumie;C;False
-71;POINT (500962.134826508 5788596.29529016);Konstytucja 3 Maja;4.7;23;Historia walki i oporu;B;False
-72;POINT (500749.2651436 5784135.22590997);Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL;4.4;34;Odkryj pradawną Polskę;C;True
-73;POINT (500097.154050612 5788363.28112204);Państwowe Muzeum Archeologiczne;4.5;39;Tradycje i receptury narodowego trunku;C;True
-74;POINT (500519.797292757 5788110.70985021);Muzeum Wódki;4.7;21;Badania nad totalitaryzmem i bohaterstwem;B;False
-75;POINT (501067.243628107 5787873.20469211);Instytut Pileckiego;4.7;28;Karykatury i humor w służbie kultury;B;False
-76;POINT (500905.567820282 5788285.57052515);Eryk Lipiński;4.6;23;Iluzje i zagadki dla każdego;C;False
-77;POINT (503028.202617939 5789400.72602713);Magic Mind Museum;4.4;38;Świadectwa z czasów Zagłady;C;True
-79;POINT (499839.84585359 5786775.60100276);Muzeum Getta Warszawskiego;4.6;29;Cisza i pamięć o ofiarach;C;False
-81;POINT (500382.662779329 5790038.76156032);Muzeum Katyńskie;4.8;24;Nowoczesne spojrzenie na design;A;False
-82;POINT (503029.083252539 5789456.31818194);Gama Concept;4.7;21;Smoki, rycerze i science fiction;B;False
-83;POINT (503068.691187554 5789394.81142207);Muzeum Sztuki Fantastycznej;4.5;21;Czcionki, prasy i zapach farby;C;False
-84;POINT (502906.039930531 5789304.52975697);Muzeum Drukarstwa Warszawskiego;4.5;32;Poznaj historię bez podręcznika;C;True
-85;POINT (501309.614966468 5785208.04778341);Przystanek Historia;4.8;26;Arcydzieła malarstwa i rzeźby;A;False
-86;POINT (501691.735624309 5786808.6550371);Muzeum Narodowe w Warszawie;4.4;29;Dinozaury w sercu miasta;C;False
-87;POINT (500404.817213228 5786866.02046954);Muzeum Ewolucji;4.5;22;Piksele, joysticki i nostalgia;C;False
-88;POINT (500331.034969466 5785180.1790615);Warszawskie Muzeum Komputerów i Gier;4.8;24;Magia dzieciństwa w miniaturze;A;False
-91;POINT (500675.001965709 5788640.07143722);Muzeum Domków Lalek, Gier i Zabawek;4.7;25;Wspomnienia z barykad;B;False
-94;POINT (500444.892857053 5788761.68385822);Powstanie Warszawskie - Spragnieni Wolności;4.4;31;Kosmiczne selfie i świetlne tunele;C;True
-95;POINT (499165.055378122 5786824.65330494);Cosmos Muzeum;4.8;23;Dzwonek, szyny i historia miasta;A;False
-96;POINT (499936.09521725 5781992.41137969);Izba Tradycji Tramwajów Warszawskich;4.7;23;Od pierwszego Maca do iPhone’a;B;False
-97;POINT (499430.632168539 5786914.85430501);Apple Muzeum;4.8;32;Życie i twórczość autorki „Nocy i dni”;A;True
-98;POINT (501023.005886185 5785387.51177248);Muzeum Marii Dąbrowskiej;4.6;29;Wzornictwo przyszłości i tradycji;C;False
-99;POINT (500510.667517557 5788980.83081832);Centrum Design;4.4;26;Kultura Orientu w sercu Europy;C;False
-101;POINT (502515.761744396 5786998.60326318);Muzeum Azji i Pacyfiku;4.7;24;Edukacja przez historię i zabawę;B;False
-102;POINT (509439.902324788 5786600.57330492);Muzeum z Klasą;4.7;23;Miasto w wersji mini dla najmłodszych;B;False
-105;POINT (503018.254095209 5789506.41965434);Minicity;4.4;36;Szpiedzy, bunkry i tajemnice;C;True
-106;POINT (500901.271483128 5788782.80133338);Muzeum Zimnej Wojny;4.5;23;Bramy historii Warszawy;C;False
-107;POINT (501486.990725522 5784744.03683061);Budynki Rogatek Mokotowskich;4.7;31;Słodka podróż do fabryki czekolady;B;True
-108;POINT (503515.074383996 5788418.36295678);Muzeum Fabryka Czekolady Wedla;4.5;33;Pamiątki i świadectwa przeszłości;C;True
-109;POINT (502681.531309877 5790068.21508838);Izba Pamięci;4.5;36;Wydarzenia, które zmieniły Polskę;C;True
-110;POINT (500522.45195472 5787217.85450732);Centralny Przystanek Historia;4.5;24;Żydowskie tradycje w nowoczesnym wydaniu;C;False
-111;POINT (499908.269652361 5786669.02133219);Mi Polin Mezuzah Center;4.8;32;Duchowość i architektura prawosławia;A;True
-112;POINT (502233.28934725 5789401.71580783);Muzeum Warszawskiej Metropolii Prawosławnej;4.5;38;Więzienna codzienność czasów PRL;C;True
-113;POINT (501636.679906763 5785576.95158953);Cele Bezpieki;4.6;20;Kolory, uśmiech i selfi;C;False
-114;POINT (496637.799953257 5784712.56542154);Be Happy Museum;4.7;29;Historia i rozwój kolei miejskiej;B;False
+id;WKT;name;score;ticket_coast;description;rating;is above Average
+"0";"POINT (500830.797391137 5787526.44130426)";Muzeum Etnograficzne;"4.4";"35";Eksponaty z całego świata w jednym miejscu;C;True
+"1";"POINT (500189.097681374 5788213.57157374)";Żydowski Instytut Historyczny;"4.5";"26";Pamięć i historia społeczności żydowskiej;C;False
+"2";"POINT (500581.62558866 5789014.87430336)";Muzeum Marii Skłodowskiej-Curie;"4.5";"28";Dom noblistki pełen naukowych pamiątek;C;False
+"3";"POINT (500777.519096203 5788841.55299175)";Muzeum Warszawy;"4.4";"23";Poznaj historię stolicy od podszewki;C;False
+"4";"POINT (500845.576999823 5788869.63800154)";Muzeum Literatury;"4.4";"35";Literacki świat w zabytkowych murach;C;True
+"5";"POINT (500639.83135249 5788094.81838843)";Muzeum Teatralne;"4.7";"21";Kulisy i kostiumy polskiej sceny;B;False
+"6";"POINT (501615.755400812 5785243.06346866)";Mauzoleum Walki i Męczeństwa;"4.8";"35";"Cisza, która opowiada o cierpieniu";A;True
+"7";"POINT (498709.945981779 5786996.88630729)";Muzeum Nurkowania;"4.6";"35";Podwodna przygoda bez wychodzenia z miasta;C;True
+"8";"POINT (500372.629842557 5781506.45466864)";Muzeum Policji;"4.6";"28";Zajrzyj za kulisy policyjnej służby;C;False
+"9";"POINT (500713.350964883 5788818.49696596)";Muzeum Cechu Rzemiosł Skórzanych;"4.6";"24";Tradycje rzemieślnicze sprzed wieków;C;False
+"10";"POINT (500781.835458666 5788743.41757573)";Muzeum Farmacji;"4.7";"23";Leki i recepty sprzed stuleci;B;False
+"11";"POINT (500736.050509797 5788677.53046282)";Muzeum Rzemiosł Artystycznych i Precyzyjnych;"4.7";"26";Sztuka i technika w jednym miejscu;B;False
+"12";"POINT (500590.333344612 5786463.16300666)";Fotoplastikon Warszawski;"4.5";"26";Zajrzyj w przeszłość przez stereoskop;C;False
+"13";"POINT (500401.171388537 5786683.70760795)";Narodowe Muzeum Techniki;"4.4";"33";"Wynalazki, które zmieniały świat";C;True
+"14";"POINT (499044.766075179 5784483.63486296)";Muzeum Geologiczne;"4.5";"22";"Kamienie, skamieniałości i dinozaury";C;False
+"15";"POINT (501565.14560776 5787340.22425745)";Muzeum Fryderyka Chopina;"4.7";"37";Muzyka w sercu Warszawy;B;True
+"17";"POINT (505655.471332677 5790581.1360611)";Muzeum Liczników;"4.6";"39";"Prąd, gaz i historia mierzenia";C;True
+"18";"POINT (504256.830321304 5788863.15530136)";Muzeum Neonów;"4.4";"33";Świetlne wspomnienia PRL-u;C;True
+"20";"POINT (499787.78309004 5791532.21971691)";Muzeum Sportu i Turystyki;"4.5";"27";Od igrzysk do wypraw górskich;C;False
+"21";"POINT (501914.209872735 5787970.21659795)";"CN ""Kopernik""";"4.7";"33";Ludzkie historie w wielkiej historii;A;True
+"22";"POINT (501140.882913646 5787998.75241015)";Dom Spotkań z Historią;"4.5";"23";Pisarz i polityk w jednej osobie;C;False
+"23";"POINT (500372.335264261 5785243.77045344)";Muzeum Andrzeja Struga;"4.6";"34";Wspólne dziedzictwo kontynentu;C;True
+"24";"POINT (500759.777309566 5787234.61383682)";Spotkania z Europą;"4.6";"30";Duchowe ścieżki dwóch wielkich Polaków;C;True
+"26";"POINT (504914.370302589 5778676.17856923)";Muzeum Jana Pawła II i Prymasa Wyszyńskiego;"4.7";"30";Świadectwo odwagi i wiary;B;True
+"27";"POINT (498914.504867074 5790796.77254604)";Muzeum Jerzego Popiełuszki;"4.7";"25";Pamięć o bohaterze II wojny;B;False
+"28";"POINT (502364.202696907 5783642.52049738)";Muzeum gen. Władysława Sikorskiego;"4.6";"36";Przygoda i wartości młodych pokoleń;C;True
+"29";"POINT (501792.8100835 5786420.84129169)";Muzeum Harcerstwa;"4.7";"26";Zastrzyki i skalpele sprzed wieków;B;False
+"30";"POINT (499034.990681686 5784004.27145699)";Muzeum Historii Medycyny;"4.6";"39";Solidarność i współdziałanie w praktyce;C;True
+"31";"POINT (500817.613197412 5787019.68741992)";Muzeum Historii Spółdzielczości w Polsce;"4.5";"39";Prawdziwa świątynia kibica;C;True
+"32";"POINT (502779.735125823 5785659.36890552)";Muzeum Legii Warszawa;"4.6";"27";Historia rolnictwa i edukacji;C;False
+"33";"POINT (503041.438726039 5779260.43772993)";Muzeum SGGW;"4.5";"34";Tradycja akademicka i duchowa;C;True
+"34";"POINT (497270.477661439 5793877.73872801)";Muzeum Uniwersytetu Kardynała Stefana Wyszyńskiego;"4.8";"37";Najstarsza uczelnia w nowym świetle;A;True
+"35";"POINT (501153.16428731 5787773.11929063)";Muzeum Uniwersytetu Warszawskiego;"4.7";"39";Dzielnica z przeszłością robotniczą;B;True
+"37";"POINT (499299.118292563 5786384.61766667)";Muzeum Woli;"4.7";"30";Sztuka i opowieści osób LGBTQ+;B;True
+"40";"POINT (500935.044553915 5786140.45714098)";QueerMuzeum;"4.6";"29";Tropy i siodła z historii Polski;C;False
+"41";"POINT (502667.804326173 5784788.91158741)";Muzeum Łowiectwa i Jeździectwa;"4.6";"20";Zakochaj się w prawej stronie miasta;C;False
+"42";"POINT (502683.653606732 5789024.67762855)";Muzeum Warszawskiej Pragi;"4.7";"25";Sztuka sakralna i duchowość;B;False
+"43";"POINT (500954.358847739 5788702.07119308)";Muzeum Archidiecezji Warszawskiej;"4.6";"35";"Nowe idee, nowe formy";C;True
+"47";"POINT (500133.698997752 5786927.52551822)";Muzeum Sztuki Nowoczesnej;"4.7";"36";Dźwięk flipperów w retro klimacie;B;True
+"49";"POINT (498524.969731315 5786018.14974384)";Pinball Station;"4.4";"30";Złote monety i papierowa historia;C;True
+"51";"POINT (501001.029705239 5787309.01221743)";Centrum Pieniądza NBP;"4.74";"24";Tradycja w każdej butelce;A;False
+"54";"POINT (503139.116940044 5789445.41974144)";Muzeum Polskiej Wódki;"4.6";"23";Nie wierz swoim oczom!;C;False
+"55";"POINT (500797.292156369 5788781.88253909)";Muzeum Świat Iluzji;"4.7";"35";Cela z historią niepodległości;B;True
+"56";"POINT (500031.288818669 5790711.33054082)";Muzeum X Pawilonu Cytadeli;"4.8";"24";Legendy polskiej motoryzacji;A;False
+"57";"POINT (495121.079918475 5790526.36319694)";Muzeum Polskiego Fiata;"4.5";"29";Barokowy pałac z duszą;C;False
+"58";"POINT (500276.580571978 5788324.38051774)";Pałac Przebendowskich;"4.8";"35";Płomień historii przemysłu;A;True
+"59";"POINT (497696.807549741 5786236.62663698)";Muzeum Gazowni Warszawskiej;"4.5";"31";"Meble, mleko i magnetofony";C;True
+"60";"POINT (501121.565982924 5785892.27033325)";Muzeum Życia w PRL;"4.5";"31";Z ruin do perełki UNESCO;C;True
+"62";"POINT (500896.806092516 5788861.66088216)";Muzeum Odbudowy Starówki;"4.85";"30";Edukacja i misje na świecie;A;True
+"63";"POINT (500789.103532638 5776737.96957936)";Muzeum Ośrodka Misyjnego Salezjanów;"4.6";"27";Miniaturowy świat wielkiej radości;C;False
+"65";"POINT (500818.872865693 5788899.01984057)";"Muzeum Domków Lalek, Gier i Zabawek";"4.7";"20";Zobacz niewidzialne — oczami wyobraźni;B;False
+"67";"POINT (499421.123691794 5786022.09040114)";Niewidzialna Wystawa;"4.7";"38";Ikony pełne światła i modlitwy;B;True
+"68";"POINT (498319.845561913 5785132.70324547)";Muzeum Ikon w Warszawie;"4.7";"22";Mosty jako dzieła sztuki inżynierii;B;False
+"69";"POINT (502091.759122974 5787739.44704514)";Pontiseum;"4.7";"29";Wieś w walce i pracy;B;False
+"70";"POINT (502327.936701834 5780785.75131813)";Muzeum Historii Polskiego Ruchu Ludowego;"4.6";"28";Wystawa o narodowej dumie;C;False
+"71";"POINT (500962.134826508 5788596.29529016)";Konstytucja 3 Maja;"4.7";"23";Historia walki i oporu;B;False
+"72";"POINT (500749.2651436 5784135.22590997)";Muzeum Żołnierzy Wyklętych i Więźniów Politycznych PRL;"4.4";"34";Odkryj pradawną Polskę;C;True
+"73";"POINT (500097.154050612 5788363.28112204)";Państwowe Muzeum Archeologiczne;"4.5";"39";Tradycje i receptury narodowego trunku;C;True
+"74";"POINT (500519.797292757 5788110.70985021)";Muzeum Wódki;"4.7";"21";Badania nad totalitaryzmem i bohaterstwem;B;False
+"75";"POINT (501067.243628107 5787873.20469211)";Instytut Pileckiego;"4.7";"28";Karykatury i humor w służbie kultury;B;False
+"76";"POINT (500905.567820282 5788285.57052515)";Eryk Lipiński;"4.6";"23";Iluzje i zagadki dla każdego;C;False
+"77";"POINT (503028.202617939 5789400.72602713)";Magic Mind Museum;"4.4";"38";Świadectwa z czasów Zagłady;C;True
+"79";"POINT (499839.84585359 5786775.60100276)";Muzeum Getta Warszawskiego;"4.6";"29";Cisza i pamięć o ofiarach;C;False
+"81";"POINT (500382.662779329 5790038.76156032)";Muzeum Katyńskie;"4.8";"24";Nowoczesne spojrzenie na design;A;False
+"82";"POINT (503029.083252539 5789456.31818194)";Gama Concept;"4.7";"21";"Smoki, rycerze i science fiction";B;False
+"83";"POINT (503068.691187554 5789394.81142207)";Muzeum Sztuki Fantastycznej;"4.5";"21";"Czcionki, prasy i zapach farby";C;False
+"84";"POINT (502906.039930531 5789304.52975697)";Muzeum Drukarstwa Warszawskiego;"4.5";"32";Poznaj historię bez podręcznika;C;True
+"85";"POINT (501309.614966468 5785208.04778341)";Przystanek Historia;"4.8";"26";Arcydzieła malarstwa i rzeźby;A;False
+"86";"POINT (501691.735624309 5786808.6550371)";Muzeum Narodowe w Warszawie;"4.4";"29";Dinozaury w sercu miasta;C;False
+"87";"POINT (500404.817213228 5786866.02046954)";Muzeum Ewolucji;"4.5";"22";"Piksele, joysticki i nostalgia";C;False
+"88";"POINT (500331.034969466 5785180.1790615)";Warszawskie Muzeum Komputerów i Gier;"4.8";"24";Magia dzieciństwa w miniaturze;A;False
+"91";"POINT (500675.001965709 5788640.07143722)";"Muzeum Domków Lalek, Gier i Zabawek";"4.7";"25";Wspomnienia z barykad;B;False
+"94";"POINT (500444.892857053 5788761.68385822)";Powstanie Warszawskie - Spragnieni Wolności;"4.4";"31";Kosmiczne selfie i świetlne tunele;C;True
+"95";"POINT (499165.055378122 5786824.65330494)";Cosmos Muzeum;"4.8";"23";"Dzwonek, szyny i historia miasta";A;False
+"96";"POINT (499936.09521725 5781992.41137969)";Izba Tradycji Tramwajów Warszawskich;"4.7";"23";Od pierwszego Maca do iPhone’a;B;False
+"97";"POINT (499430.632168539 5786914.85430501)";Apple Muzeum;"4.9";"32";Życie i twórczość autorki „Nocy i dni”;A;True
+"98";"POINT (501023.005886185 5785387.51177248)";Muzeum Marii Dąbrowskiej;"4.6";"29";Wzornictwo przyszłości i tradycji;C;False
+"99";"POINT (500510.667517557 5788980.83081832)";Centrum Design;"4.4";"26";Kultura Orientu w sercu Europy;C;False
+"101";"POINT (502515.761744396 5786998.60326318)";Muzeum Azji i Pacyfiku;"4.7";"24";Edukacja przez historię i zabawę;B;False
+"102";"POINT (509439.902324788 5786600.57330492)";Muzeum z Klasą;"4.7";"23";Miasto w wersji mini dla najmłodszych;B;False
+"105";"POINT (503018.254095209 5789506.41965434)";Minicity;"4.4";"36";"Szpiedzy, bunkry i tajemnice";C;True
+"106";"POINT (500901.271483128 5788782.80133338)";Muzeum Zimnej Wojny;"4.5";"23";Bramy historii Warszawy;C;False
+"107";"POINT (501486.990725522 5784744.03683061)";Budynki Rogatek Mokotowskich;"4.7";"31";Słodka podróż do fabryki czekolady;B;True
+"108";"POINT (503515.074383996 5788418.36295678)";Muzeum Fabryka Czekolady Wedla;"4.5";"33";Pamiątki i świadectwa przeszłości;C;True
+"109";"POINT (502681.531309877 5790068.21508838)";Izba Pamięci;"4.5";"36";"Wydarzenia, które zmieniły Polskę";C;True
+"110";"POINT (500522.45195472 5787217.85450732)";Centralny Przystanek Historia;"4.5";"24";Żydowskie tradycje w nowoczesnym wydaniu;C;False
+"111";"POINT (499908.269652361 5786669.02133219)";Mi Polin Mezuzah Center;"4.8";"32";Duchowość i architektura prawosławia;A;True
+"112";"POINT (502233.28934725 5789401.71580783)";Muzeum Warszawskiej Metropolii Prawosławnej;"4.5";"38";Więzienna codzienność czasów PRL;C;True
+"113";"POINT (501636.679906763 5785576.95158953)";Cele Bezpieki;"4.6";"20";"Kolory, uśmiech i selfi";C;False
+"114";"POINT (496637.799953257 5784712.56542154)";Be Happy Museum;"4.7";"29";Historia i rozwój kolei miejskiej;B;False
