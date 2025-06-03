@@ -1,0 +1,362 @@
+WKT;full_id;osm_id;osm_type;natural;wikipedia:pl;loc_name;barrier;name:sk;length;name:pl;direction;cave:ref;cave:length;cave:depth;website;ref;wheelchair;official_name;alt_name;ref:prng;description;url;ref:ckkp;payment:cash;payment:cards;opening_hours;fee;charge;wikipedia;wikidata;tourism;ele;access;name
+"POINT (417238.397216319 5454820.12597358)";n1294577865;"1294577865";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Mylna (otw. płn.) wyjście
+"POINT (417628.922590073 5455855.16795195)";n1294577894;"1294577894";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Mroźna wyjście
+"POINT (417164.330295164 5454688.28784336)";n1294577914;"1294577914";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;attraction;"1098";yes;Jaskinia Mylna (wejście)
+"POINT (417164.235192855 5454740.51608636)";n1294577918;"1294577918";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Raptawicka;Q11721262;attraction;"1146";;Jaskinia Raptawicka
+"POINT (417809.011448144 5456106.09268938)";n1294577943;"1294577943";node;cave_entrance;;;;;;;;;;;;;;;;;;https://tpn.gov.pl/aktualnosci/jaskinia-mrozna-otwarta;MA00207;yes;no;Apr 26-Oct 30 Mo-Su 09:00-17:00;yes;9 PLN;pl:Jaskinia Mroźna;Q11721238;;;;Jaskinia Mroźna wejście
+"POINT (417560.536918526 5455911.57659195)";n1852673405;"1852673405";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Naciekowa;Q11721244;;;permit;Jaskinia Naciekowa
+"POINT (417645.821793602 5455765.97272374)";n1852683970;"1852683970";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziurawa Koleba
+"POINT (417568.747941676 5454514.47408251)";n1852697241;"1852697241";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Smocza Jama
+"POINT (417323.090032514 5454755.16275528)";n1852703511;"1852703511";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Wodna pod Raptawicką;Q11721285;;;;Jaskinia Wodna pod Raptawicką
+"POINT (417359.38468617 5454796.97075434)";n1852705743;"1852705743";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Wodna pod Pisaną;Q11721283;;;;Jaskinia Wodna pod Pisaną
+"POINT (420770.808252483 5454884.41579672)";n2009093629;"2009093629";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Wantą
+"POINT (421007.669957615 5454538.58052161)";n2009093631;"2009093631";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Litworowa Wielka
+"POINT (419989.625846011 5454647.40368573)";n2009093634;"2009093634";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Marmurowa;Q11721230;;;permit;Jaskinia Marmurowa
+"POINT (419561.504112796 5455318.51780662)";n2009108458;"2009108458";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Miętusia Wyżnia
+"POINT (421855.927310065 5454712.00620332)";n2009115805;"2009115805";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wielka Śnieżna (otw. Śnieżna)
+"POINT (421588.426273177 5454856.59793103)";n2009124105;"2009124105";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Śnieżna Studnia
+"POINT (420290.99059385 5454727.64800193)";n2009655205;"2009655205";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;no;;pl:Ptasia Studnia;Q11830771;;;permit;Ptasia Studnia
+"POINT (419863.820230427 5455410.11007743)";n2009676854;"2009676854";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;no;;pl:Jaskinia Miętusia;Q11721237;;;;Jaskinia Miętusia
+"POINT (423097.608071624 5458236.45192632)";n2100603507;"2100603507";node;cave_entrance;;;;;;;;;;;;;;;;;"Dolny, udostępniony turystycznie otwór jaskini";;;;;;no;;pl:Dziura (jaskinia);Q9248950;;;;Dziura
+"POINT (417555.036892783 5454536.75091495)";n2487026313;"2487026313";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (431169.829006766 5449299.8329549)";n3508545945;"3508545945";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;customers;Studnia w Mnichu
+"POINT (433620.52434373 5451177.67207138)";n3544018880;"3544018880";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;customers;
+"POINT (420964.350774586 5454001.43269216)";n3560674492;"3560674492";node;cave_entrance;;;;;;;;;;;;;;;;"69803";;;;;;;;;pl:Litworowa Studnia;Q22569793;;;customers;Litworowa Studnia
+"POINT (420453.563492293 5453805.54346528)";n3560688066;"3560688066";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Szczelina w Krzesanicy I;Q22569821;;;customers;Szczelina w Krzesanicy
+"POINT (412926.566390265 5458093.85179101)";n3568593151;"3568593151";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron w Wielkich Koryciskach
+"POINT (413807.582292403 5456802.05225793)";n3568686869;"3568686869";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron w skale Kmietowicza I
+"POINT (413810.186228267 5456748.06012021)";n3568686870;"3568686870";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron w skale Kmietowicza II
+"POINT (414075.046600591 5456274.41244192)";n3568837315;"3568837315";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron w Międzyścianach I
+"POINT (414112.668454981 5456245.40397305)";n3568838905;"3568838905";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron w Międzyścianach II
+"POINT (414135.666483191 5456218.18065388)";n3568840804;"3568840804";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron w Międzyścianach III
+"POINT (414315.168586652 5455897.12427371)";n3568852793;"3568852793";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron przy Ścianach
+"POINT (413781.539859521 5455937.46015013)";n3568889195;"3568889195";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura nad Potokiem
+"POINT (413526.305120568 5455653.0275145)";n3568964693;"3568964693";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zbójecka Dziura
+"POINT (413597.751450799 5455577.31654046)";n3568999908;"3568999908";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Rybia I
+"POINT (413721.472875628 5455523.28138486)";n3569004694;"3569004694";node;cave_entrance;;;;;;;;;;;;;;;Schron w Dudzińcu;;;;;;;;;;;;;;;Jaskinia w Dudzińcu
+"POINT (413451.222395042 5455419.1213447)";n3569045193;"3569045193";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kamienne Mleko I
+"POINT (413480.086475319 5455434.37926334)";n3569047797;"3569047797";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kamienne Mleko II
+"POINT (413539.168006653 5455469.05517521)";n3569059393;"3569059393";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina I
+"POINT (413524.696559751 5455489.48645969)";n3569061898;"3569061898";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina II
+"POINT (413524.226830454 5455475.80586411)";n3569076793;"3569076793";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Mała
+"POINT (413564.11247478 5455493.88217573)";n3569078793;"3569078793";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Rybia II
+"POINT (413161.27279749 5455185.07674615)";n3569101093;"3569101093";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Zawiesistej
+"POINT (415038.589457932 5455364.75726463)";n3569149193;"3569149193";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dudowe Studnie
+"POINT (415238.579119985 5455354.30184757)";n3569165993;"3569165993";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Baranami
+"POINT (415560.044830117 5455329.9244194)";n3569167799;"3569167799";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szemrzący Schron
+"POINT (415167.89439058 5454804.08486201)";n3569173067;"3569173067";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Troista
+"POINT (415199.945243466 5454818.39084974)";n3569175932;"3569175932";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schronisko przy Troistej II
+"POINT (415963.518966025 5454378.32418071)";n3569182693;"3569182693";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina w Smytniej
+"POINT (415622.199292142 5455038.28005444)";n3569186093;"3569186093";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Głazem
+"POINT (415569.077361896 5455053.10485019)";n3569187593;"3569187593";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia w Kasówkach
+"POINT (415549.479460189 5455066.41502621)";n3569188221;"3569188221";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Skośna
+"POINT (415561.740487357 5455129.61793983)";n3592337703;"3592337703";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Lejowa Szczelina
+"POINT (415640.675696403 5455143.21855997)";n3592353165;"3592353165";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (415576.927263378 5455095.94933935)";n3592357985;"3592357985";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Skośna II
+"POINT (415587.390467158 5455169.64311596)";n3592362768;"3592362768";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schronisko przy Suchym Biwaku
+"POINT (415602.609424859 5455151.8412987)";n3592373924;"3592373924";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (415604.159624007 5455128.54488676)";n3592375503;"3592375503";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (415612.822725142 5455111.91106946)";n3592375563;"3592375563";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (415664.570771425 5455179.45706348)";n3592383842;"3592383842";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Bandzioch Kominiarski (otw. grn.)
+"POINT (415679.554446783 5455118.71644148)";n3592397959;"3592397959";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Tylkowa Szczelina
+"POINT (415747.537668133 5455054.6181339)";n3592409466;"3592409466";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Smytnia
+"POINT (416016.931651974 5455067.9032052)";n3592431080;"3592431080";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Kapliczką
+"POINT (416132.261797671 5455064.44364403)";n3592434671;"3592434671";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (416196.916762781 5455057.75480464)";n3592442490;"3592442490";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Ślimacza
+"POINT (416243.229753599 5455010.64935822)";n3592446240;"3592446240";node;cave_entrance;;;;;;;;;;;;;;Bandzioch Kominiarski;;;;;;;;;;;;;;;;Bandzioch Kominiarski (otw. dln.)
+"POINT (416284.41228491 5455100.54463425)";n3592449448;"3592449448";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nisza Zachodnia
+"POINT (416246.967436203 5455149.60523329)";n3592455403;"3592455403";node;cave_entrance;;;;;;;;;;;;;;;Szczelina przy Zawieszonej Skale I;;;;;;;;;;;;;;;Szczelina przy Zawieszonej Skale Pierwsze
+"POINT (416261.48549034 5455163.11662241)";n3592461313;"3592461313";node;cave_entrance;;;;;;;;;;;;;;;Szczelina przy Zawieszonej Skale II;;;;;;;;;;;;;;;Szczelina przy Zawieszonej Skale Drugie
+"POINT (416395.440433753 5454767.83776928)";n3592474015;"3592474015";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Nowa nad Raptawicką Granią
+"POINT (417030.110402952 5454612.76374076)";n3592491815;"3592491815";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia przy Żlebie
+"POINT (417038.293362615 5454622.39195747)";n3592493709;"3592493709";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina nad Żlebem
+"POINT (417144.392786036 5454664.84840231)";n3592497152;"3592497152";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Okno Pawlikowskiego I (Mylna)
+"POINT (417153.327484551 5454668.32768004)";n3592499992;"3592499992";node;cave_entrance;;;;;;;;;;;;;no;;;;;;;;;;;;;;;;;Okno Pawlikowskiego II (Mylna)
+"POINT (417162.256548189 5454674.82035573)";n3592501580;"3592501580";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Okno Pawlikowskiego III (Mylna)
+"POINT (417241.411011346 5454791.04848109)";n3592548438;"3592548438";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417238.796751819 5454777.93378831)";n3592549089;"3592549089";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417823.537942011 5454364.65978658)";n3592573825;"3592573825";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Oknem
+"POINT (417307.819982354 5454619.2488944)";n3592582935;"3592582935";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Ziobrowa I
+"POINT (417332.568009713 5454831.68715571)";n3592587693;"3592587693";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417317.01508207 5454691.94139564)";n3592589747;"3592589747";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wyzior I
+"POINT (417329.340466212 5454691.90085017)";n3592589759;"3592589759";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wyzior II
+"POINT (417323.251690094 5454597.21243317)";n3592591803;"3592591803";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Ziobrowa II
+"POINT (418020.630406794 5454179.10109799)";n3592596149;"3592596149";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Ciasna
+"POINT (417336.581827575 5454511.32792463)";n3592597703;"3592597703";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417362.217695401 5454506.97354167)";n3592597704;"3592597704";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417332.146658431 5454480.2163575)";n3592600461;"3592600461";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417553.289805788 5454509.05700847)";n3592610622;"3592610622";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura pod Smoczą Jamą
+"POINT (417813.892700474 5454332.60270795)";n3592616861;"3592616861";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (418105.679033153 5454436.87785871)";n3592618567;"3592618567";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Gawra
+"POINT (418108.412074309 5454415.52183531)";n3592619714;"3592619714";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Jagnięca
+"POINT (418193.797862015 5454317.21591535)";n3592622096;"3592622096";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia nad Zachodem
+"POINT (418314.116973699 5454220.56128854)";n3592622718;"3592622718";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Okapem
+"POINT (418148.587358006 5454160.29645966)";n3592636503;"3592636503";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia z Mostami
+"POINT (418089.578258569 5454147.43070295)";n3592639376;"3592639376";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Ścieżką
+"POINT (418006.390921897 5454165.58099096)";n3592644190;"3592644190";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (418026.540636055 5454148.63564555)";n3592644338;"3592644338";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (418042.98898692 5454168.20509016)";n3592648417;"3592648417";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417939.080460882 5453968.97448432)";n3592648439;"3592648439";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Psia (Tatry);Q22569808;;;;Jaskinia Psia
+"POINT (418346.233406899 5453963.71156856)";n3592648985;"3592648985";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Ptasi Schron
+"POINT (418237.382585082 5454038.24586071)";n3592649222;"3592649222";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Krakowska Piwnica
+"POINT (417828.890349428 5454343.2533875)";n3592662659;"3592662659";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417794.469569652 5454317.65943392)";n3592667401;"3592667401";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417750.713408762 5454310.05136095)";n3592673400;"3592673400";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Owcza
+"POINT (417421.235242184 5454397.22027932)";n3592673991;"3592673991";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura ze Znakiem
+"POINT (417420.524379315 5454378.95103276)";n3592678435;"3592678435";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417338.324607553 5454368.44265151)";n3592682651;"3592682651";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dzwonnica
+"POINT (417377.785257898 5454380.90427012)";n3592684006;"3592684006";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417353.701138697 5454375.17242369)";n3592684011;"3592684011";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (417303.167819391 5454235.81851193)";n3592692447;"3592692447";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia za Smrekiem
+"POINT (417388.152227784 5454228.44949988)";n3592692993;"3592692993";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Ścianie
+"POINT (417299.743426407 5454182.34226528)";n3592694268;"3592694268";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Przeziorowa;Q22569807;;;;Jaskinia Przeziorowa
+"POINT (417894.151657637 5455250.84765989)";n3592705819;"3592705819";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Czarna;Q11721195;;;;Jaskinia Czarna
+"POINT (417615.086622355 5455684.58444454)";n3592709658;"3592709658";node;cave_entrance;;;;;;;;;;;;;;;Zamczysko Wyżnie;;;;;;;;;;;;;;;Wyżnie Zamczysko
+"POINT (417589.761424396 5455620.85040691)";n3592726277;"3592726277";node;cave_entrance;;;;;;;;;;;;;;;Zamczysko Niżnie;;;;;;;;;;;;;;;Niżnie Zamczysko
+"POINT (417043.044000977 5455557.38935073)";n3592733490;"3592733490";node;cave_entrance;;;;;;;;;;;;;;Wielka Szczelina;Wielka Szczelina w Kazalnicy;;;;;;;;;;pl:Wielka Szczelina (jaskinia);Q23648463;;;;Wielka Szczelina
+"POINT (417643.983302601 5455724.34779216)";n3592743506;"3592743506";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Okno Zbójnickie Wyżnie
+"POINT (417580.400007101 5455779.78361143)";n3592744730;"3592744730";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Zimna;Q11721292;;;;Jaskinia Zimna
+"POINT (417242.671848911 5456036.89069578)";n3592745383;"3592745383";node;cave_entrance;;;;;;;;;;;;;;;Nad Mostkiem Wyżnia;;;;;;;;;;;;;;;Wyżnia Jaskinia nad Mostkiem
+"POINT (417326.692520064 5456005.50588808)";n3592745387;"3592745387";node;cave_entrance;;;;;;;;;;;;;;;Nad Mostkiem Niżnia;;;;;;;;;;;;;;;Niżnia Jaskinia nad Mostkiem
+"POINT (417632.950424576 5455760.9838065)";n3592745592;"3592745592";node;cave_entrance;;;;;;;;;;;;;;;Zbójnickie Okno Niżnie;;;;;;;;;;;;;;;Okna Zbójeckie Niżnie
+"POINT (417470.402480865 5456250.87320464)";n3592752657;"3592752657";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziurawiec
+"POINT (418675.47575341 5455420.87943911)";n3592759735;"3592759735";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (418643.371516365 5455530.59924742)";n3592760198;"3592760198";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Zakopiańska
+"POINT (418557.992371752 5457819.86009693)";n3592765722;"3592765722";node;cave_entrance;;;;;;;;;;;;;;;Dziura Stanikowa Wyżnia;;;;;;;;;;;;;;;Wyżnia Dziura Stanikowa
+"POINT (418388.635218871 5457429.99710076)";n3592766502;"3592766502";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Kończystej Turni
+"POINT (418350.308700922 5457424.66159389)";n3592769293;"3592769293";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Niżnia w Kończystej
+"POINT (418586.271593842 5457844.65968888)";n3592771304;"3592771304";node;cave_entrance;;;;;;;;;;;;;;;Dziura Stanikowa Niżnia;;;;;;;;;;;;;;;Niżnia Dziura Stanikowa
+"POINT (419550.792585969 5455313.8153181)";n3598415430;"3598415430";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia w Małej Świstówce
+"POINT (419800.686333663 5454897.02901338)";n3598432819;"3598432819";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Korytarz nad Dziurawem
+"POINT (419722.487318599 5455278.21823363)";n3598439417;"3598439417";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Piwnica Miętusia;Q22569804;;;;Piwnica Miętusia
+"POINT (419611.156993748 5455177.85895147)";n3598458156;"3598458156";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Studnia w Małej Świstówce
+"POINT (419743.255246938 5454995.04653223)";n3598462165;"3598462165";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Studnia w Dziurawem
+"POINT (419668.507882587 5454964.39188317)";n3598471354;"3598471354";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura nad Studnią
+"POINT (419838.237526565 5454869.54062634)";n3598477069;"3598477069";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia przy Grzędzie
+"POINT (419903.750780436 5454677.80649542)";n3598477600;"3598477600";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Wierchem
+"POINT (419886.160345484 5454814.32632876)";n3598478127;"3598478127";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zawaliskowy Korytarz
+"POINT (419942.689408409 5454764.11319767)";n3598478333;"3598478333";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Krucha Szczelina
+"POINT (419933.641676856 5454745.70933346)";n3598488101;"3598488101";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zielone Kominy
+"POINT (419963.943502468 5454734.76122928)";n3598488911;"3598488911";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zielone Kominy II
+"POINT (419875.363565321 5454572.69984771)";n3598494762;"3598494762";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinie w Szerokiem
+"POINT (420042.725172915 5454720.78510204)";n3598496533;"3598496533";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (420027.619430207 5454729.37714679)";n3598500180;"3598500180";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (420116.811992165 5454632.09162852)";n3598501004;"3598501004";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Lodowa Mułowa
+"POINT (420068.096522672 5454693.15280562)";n3598508573;"3598508573";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (420099.648578217 5454674.00370356)";n3598509319;"3598509319";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (420084.613298521 5454687.46469976)";n3598509631;"3598509631";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (419994.931680886 5454791.57386365)";n3598514970;"3598514970";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (419928.118428993 5454789.43190587)";n3598516073;"3598516073";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (420250.924271045 5454787.28139564)";n3598534677;"3598534677";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia przy progu Mułowym
+"POINT (420159.105883082 5454690.43121041)";n3598558469;"3598558469";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (418738.052000828 5453835.63896389)";n3598575400;"3598575400";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Lustrzana Szczelina
+"POINT (418921.254636663 5453970.95972517)";n3598578507;"3598578507";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Studnia Kuturniańska
+"POINT (418792.653209587 5454084.24574181)";n3598580844;"3598580844";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Pośrednia
+"POINT (418807.165070655 5454074.88073613)";n3598581579;"3598581579";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia za Siedmiu Progami
+"POINT (419013.048946253 5453825.21664186)";n3600116203;"3600116203";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Lodowa Krakowska
+"POINT (419356.161982546 5454045.73143941)";n3600135676;"3600135676";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Lodowa w Ciemniaku
+"POINT (419602.019320623 5454202.60641081)";n3600143442;"3600143442";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Zawaliskowa w Szerokiem
+"POINT (420345.63321986 5454800.85421616)";n3600302902;"3600302902";node;cave_entrance;;;;;;;;;;;;;;;System Ptasiej Studni;;;;;;;;;;;;;;;Jaskinia Lodowa Litworowa
+"POINT (420322.823515601 5454846.58326849)";n3600306127;"3600306127";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Korytarz nad Piargiem
+"POINT (420300.242579245 5454810.02832968)";n3600306178;"3600306178";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (420306.4386142 5454795.98425674)";n3600306380;"3600306380";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (420315.294853745 5454817.84948952)";n3600307325;"3600307325";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (420526.105791584 5454844.38983623)";n3600308180;"3600308180";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Barania
+"POINT (420347.442402424 5455014.94708159)";n3600311458;"3600311458";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Bliźniaczy Komin
+"POINT (420962.807477829 5454787.09997454)";n3600315317;"3600315317";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia w Trawie
+"POINT (420926.663181379 5454772.04130023)";n3600323831;"3600323831";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Litworowej
+"POINT (420926.400356507 5455054.80110985)";n3600333682;"3600333682";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Niebieska Studnia
+"POINT (421039.860676665 5454630.69541234)";n3600334955;"3600334955";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Wyżnia Litworowa
+"POINT (421189.28819223 5455041.34647641)";n3600447434;"3600447434";node;cave_entrance;;;;;;;;;;;https://jaskiniepolski.pgi.gov.pl/Details/Information/1559;T.E-12.24;;;"Dziura nad Źródłem;Dziura;Studnia Zaruskiego";"1158";;;;;;;;;pl:Awen w Ratuszu;Q11772505;;"1857";no;Awen w Ratuszu
+"POINT (421397.047220821 5455007.06492908)";n3600449484;"3600449484";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Maćkowa Dziura
+"POINT (421410.690661968 5454869.43965361)";n3600450498;"3600450498";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia z Dolomitami
+"POINT (421803.568843681 5454774.12623061)";n3600452124;"3600452124";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Bliźniacza Studnia
+"POINT (421551.864380516 5454913.73657844)";n3600453582;"3600453582";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Upłazkowa
+"POINT (421634.29320899 5454914.03025891)";n3600454007;"3600454007";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jędrusiowa Dziura
+"POINT (421670.377760809 5454889.79996437)";n3600454929;"3600454929";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia przy Jędrusiowej Dziurze
+"POINT (421669.831344593 5454866.74702285)";n3600454972;"3600454972";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (421649.099266023 5454881.18536683)";n3600455173;"3600455173";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Przy Przechodzie
+"POINT (421677.462652415 5454820.30575582)";n3600455439;"3600455439";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Świstowa Studnia
+"POINT (421931.224884354 5454561.91078424)";n3600457391;"3600457391";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zaspałkowa Szczelina
+"POINT (421483.980820086 5454651.05147924)";n3600458289;"3600458289";node;cave_entrance;;;;;;;;;;;;;;;;"146123";;;;;;;;;;;;;;Wielka Śnieżna (otw. Jasny Awen)
+"POINT (421552.893045274 5454695.22321168)";n3600461980;"3600461980";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura Małołącka Mała
+"POINT (422110.062993025 5454603.09742086)";n3600464002;"3600464002";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Koprowa Studnia
+"POINT (421434.031259863 5454676.13683159)";n3600467605;"3600467605";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Królicza Jama
+"POINT (421445.267745279 5454632.96833831)";n3600468127;"3600468127";node;cave_entrance;;;;;;;;;;;;;;;;"146123";;;;;;;;;;;;;;Wielka Śnieżna (otw. nad Kotlinami)
+"POINT (422012.371964494 5455016.63719027)";n3600469139;"3600469139";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Lodowa Małołącka
+"POINT (421496.395103879 5454590.88765368)";n3600469609;"3600469609";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Małołącka
+"POINT (421436.608718706 5454590.43955155)";n3600471073;"3600471073";node;cave_entrance;;;;;;;;;;;;;;;;"93144";;;;;;;;;pl:Jaskinia Omszała;Q22569744;;;;Jaskinia Omszała
+"POINT (422014.733073805 5455056.37619777)";n3600472837;"3600472837";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Mnichowa Studnia
+"POINT (422086.953915284 5455058.26668725)";n3600473306;"3600473306";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wyżnia Mnichowa Studnia
+"POINT (422047.48151207 5455301.84114151)";n3600474510;"3600474510";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Pomarańczarnia
+"POINT (422043.742711487 5455316.94914477)";n3600479400;"3600479400";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Chuda Mnichowa Studnia
+"POINT (421922.105572845 5455304.34088418)";n3600480493;"3600480493";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia za Mnichem
+"POINT (421649.49345213 5455821.19941017)";n3600492760;"3600492760";node;cave_entrance;;;;;;;;;;;;;;;"Dziura;Jaskinia Śpiących Rycerzy Niżnia;Kozia";"168952";;;;;;;no;;;;;;permit;Jaskinia Śpiących Rycerzy
+"POINT (421654.323898996 5455857.31178712)";n3600494291;"3600494291";node;cave_entrance;;;;;;;;;;;;;;;;"137302";;;;;;;;;;;;;permit;Jaskinia Śpiących Rycerzy Wyżnia
+"POINT (422166.229411176 5456189.99897893)";n3600505476;"3600505476";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nyża pod Brzózką
+"POINT (422165.54749313 5456243.1572357)";n3600506119;"3600506119";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina w Żlebie Kirkora
+"POINT (422322.24243264 5456374.21477997)";n3600506569;"3600506569";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Mała Dziura Giewontowa
+"POINT (422567.169354068 5456316.66897344)";n3600507346;"3600507346";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kominek Giewontowy
+"POINT (422584.787990908 5456342.92861626)";n3600508351;"3600508351";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura nad Doliną Strążyską
+"POINT (423095.769086164 5456350.80719078)";n3600508638;"3600508638";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Juhaska;Q11721210;;;;Jaskinia Juhaska
+"POINT (423138.110245803 5456166.68686681)";n3600509502;"3600509502";node;cave_entrance;;;;;;;;;;;;;;;;"117797";;;;;;;;;;;;;;Ruda Nyża
+"POINT (424528.846370592 5456378.68683288)";n3600516250;"3600516250";node;cave_entrance;;;;;;;;;;;;;;;;"60301";;;;;;;;;;;;;;Kozi Korytarz
+"POINT (424858.723360201 5456330.47514248)";n3600517540;"3600517540";node;cave_entrance;;;;;;;SW;T.D-16.05;"185";"12";https://jaskiniepolski.pgi.gov.pl/Details/Information/1231;;;;"Elektrownia;Mała Jaskinia";"26870";;;;;;;;;pl:Dudnica;Q22569719;;"1181";private;Dudnica
+"POINT (424892.966975186 5456478.74417064)";n3600517541;"3600517541";node;cave_entrance;;;;;;;;;;;;;;;"Grota Kalatowska;Jaskinia Kalacka Wyżnia";"48317";;;;;;;;;pl:Jaskinia Kalacka;Q16562321;;;;Jaskinia Kalacka
+"POINT (424487.374554049 5456445.89106294)";n3600517693;"3600517693";node;cave_entrance;;;;;;;;;;;;;;;;"29236";;;;;;;;;;;;;;Dziura za Głazami
+"POINT (424837.720383452 5456317.7863234)";n3600520339;"3600520339";node;cave_entrance;;;;;;;E;T.D-16.04;"1480";"53";https://jaskiniepolski.pgi.gov.pl/Details/Information/1228;;;;Kalacka Niżnia;"14078";;;;;;;;;pl:Jaskinia Bystrej;Q11721191;;"1192";private;Jaskinia Bystrej
+"POINT (425227.327470109 5456043.58102124)";n3600522255;"3600522255";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Goryczkowa;Q22569727;;;;Jaskinia Goryczkowa
+"POINT (425237.681089628 5456065.28879997)";n3600524935;"3600524935";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Myślenicka Dziura
+"POINT (425287.230434793 5455982.61469575)";n3600525961;"3600525961";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (421228.339417858 5455220.03665893)";n3600534053;"3600534053";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Wantach
+"POINT (421265.774165234 5455274.68459225)";n3600535367;"3600535367";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Strzelista
+"POINT (421306.022130931 5455295.50195665)";n3600536744;"3600536744";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Komora Gwiaździsta
+"POINT (421271.338967757 5455295.7755421)";n3600537702;"3600537702";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"POINT (421219.643939283 5455296.08154009)";n3600538021;"3600538021";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Awen z Korkiem Śnieżnym
+"POINT (421198.683606817 5455279.63637759)";n3600538658;"3600538658";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Ciasna w Groniu
+"POINT (420812.318735544 5455513.35438978)";n3600812146;"3600812146";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia nad Korytem
+"POINT (420769.789229027 5455597.02547967)";n3600812867;"3600812867";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura nad Korytem
+"POINT (420821.365162823 5455462.63274533)";n3600814595;"3600814595";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Iglicą
+"POINT (420822.742318878 5455449.57033596)";n3600815233;"3600815233";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina w Iglicy
+"POINT (420900.663754565 5455522.21345841)";n3600815930;"3600815930";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia nad Zagonem
+"POINT (420930.201475892 5455541.35848932)";n3600816095;"3600816095";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Błotna
+"POINT (421054.323705275 5455674.58364221)";n3600816262;"3600816262";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Tunel pod Siwarową Matką Boską
+"POINT (421220.317733308 5455521.16470727)";n3600818727;"3600818727";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Tunel Małołącki
+"POINT (421019.034779003 5455702.98752718)";n3600821377;"3600821377";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Siwarowa Dziura
+"POINT (418843.331735178 5454044.28157197)";n3945462337;"3945462337";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Wysoka
+"POINT (425653.294864542 5456281.26657328)";n4076009267;"4076009267";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Kasprowa Niżnia;Q11721213;;;;Jaskinia Kasprowa Niżnia
+"POINT (436060.957634583 5452081.01829331)";n4861761253;"4861761253";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;sk:Mesačný tieň;Q9192625;;;;Mesačný tieň
+"POINT (420671.513131562 5453264.46317472)";n5216833143;"5216833143";node;cave_entrance;;;;;;Lodowa Studnia;;;;;;;;;;;;;;;;;;;;;;;;Zadný úplaz
+"POINT (418815.819185 5450922.77802425)";n5278931363;"5278931363";node;cave_entrance;;;;Jaskyňa v Smrečinách;"5";Jaskinia w Smreczyńskim Wierchu;;;;;;;;;;;;;;;;;;;;;;"2003";;
+"POINT (417188.500002029 5454705.59261679)";n5914026732;"5914026732";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Obłazkowa;Q11721252;;;;Jaskinia Obłazkowa
+"POINT (426030.179353997 5456000.75318691)";n5949252004;"5949252004";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Kasprowa Średnia;Q22569734;;;;Jaskinia Kasprowa Średnia
+"POINT (426043.482874758 5456080.26257633)";n5949252005;"5949252005";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Kasprowa Wyżnia;Q22569736;;;;Jaskinia Kasprowa Wyżnia
+"POINT (426080.686731132 5456000.95290347)";n5949252006;"5949252006";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaskinia Kasprowa Wyżnia;Q22569736;;;;Jaskinia Kasprowa Wyżnia
+"POINT (426924.045844761 5455721.47231639)";n6178007811;"6178007811";node;cave_entrance;;;gate;;;;N;;;;;;;;;;Główny (dolny) otwór Jaskini Magurskiej;;;;;;;;pl:Jaskinia Magurska;Q11721229;;"1460";permit;Jaskinia Magurska
+"POINT (420857.905641882 5455497.43230203)";n7450088260;"7450088260";node;cave_entrance;;;;;;;;;"20";"15";;;;;;;;;;;;;;;;;;;;Szpara w Zagonnej Turni
+"POINT (417852.859214659 5454276.87026936)";n7490429409;"7490429409";node;cave_entrance;;;;;;;;;"4";;;T.E-09.24;;;;;;;;;;;;;;;;;;Schron z Napisami
+"POINT (417922.638200962 5454284.49147302)";n7490429410;"7490429410";node;cave_entrance;;;;;;;;;"23";"1";;T.E-09.21;;;;;;;;;;;;;pl:Dudzia Dziura;Q23648389;;;;Dudzia Dziura
+"POINT (417958.811844889 5454249.88333698)";n7490429411;"7490429411";node;cave_entrance;;;;;;;;;"4";;;T.E-09.23;;;;;;;;;;;;;;;;;;Jaskinia Pajęcza
+"POINT (417997.79055486 5454325.85793305)";n7490429412;"7490429412";node;cave_entrance;;;;;;;;;"5";"1";;T.E-09.22;;;;;;;;;;;;;pl:Ukryty Schron;Q48842675;;;;Ukryty Schron
+"POINT (417970.813455922 5454388.83827061)";n7490429413;"7490429413";node;cave_entrance;;;;;;;;;"6";;;T.E-09.15;;;Jaskinia pod Bramą;;;;;;;;;;pl:Dziura pod Arkadą;Q30905820;;;;Dziura pod Arkadą
+"POINT (417990.135758983 5454416.61513418)";n7490429414;"7490429414";node;cave_entrance;;;;;;;;;"6";"2";;T.E-09.41;;;;;;;;;;;;;pl:Mała Gawra;Q30904284;;;;Mała Gawra
+"POINT (417992.798455055 5454400.83077761)";n7490429415;"7490429415";node;cave_entrance;;;;;;;;;"8";"7";;T.E-09.07;;;;;;;;;;;;;pl:Arkada (jaskinia);Q28676613;;;;Arkada
+"POINT (417992.799545474 5454381.83927766)";n7490429416;"7490429416";node;cave_entrance;;;;;;;;;"4";;;T.E-09.06;;;;;;;;;;;;;;;;;;Szczelina przy Arkadzie
+"POINT (418014.796345193 5454362.84266881)";n7490429417;"7490429417";node;cave_entrance;;;;;;;;;"6";;;T.E-09.25;;;;;;;;;;;;;pl:Schron przy Arkadzie;Q28842175;;;;Schron przy Arkadzie
+"POINT (418014.810917734 5454384.84721839)";n7490429418;"7490429418";node;cave_entrance;;;;;;;;;"21";;;T.E-09.05;;;;;;;;;;;;;pl:Jaskinia nad Arkadą;Q23648409;;;;Jaskinia nad Arkadą
+"POINT (418041.774195429 5454391.82889751)";n7490429419;"7490429419";node;cave_entrance;;;;;;;;;"23";;;T.E-09.03;;;;;;;;;;;;;pl:Jaskinia Skoruszowa;Q23648447;;;;Jaskinia Skoruszowa
+"POINT (418033.957445847 5454371.48605344)";n7490429420;"7490429420";node;cave_entrance;;;;;;;;;"15";;;T.E-09.40;;;;;;;;;;;;;pl:Jaskinia nad Percią;Q24514325;;;;Jaskinia nad Percią
+"POINT (418043.784046943 5454369.83869306)";n7490429421;"7490429421";node;cave_entrance;;;;;;;;;"17";;;T.E-09.04;;;;;;;;;;;;;pl:Jaskinia przy Perci;Q24514299;;;;Jaskinia przy Perci
+"POINT (418070.765414773 5454293.8715315)";n7490429422;"7490429422";node;cave_entrance;;;;;;;;;"12";;;T.E-09.34;;;;;;;;;;;;;pl:Spękana Szczelina;Q28672973;;;;Spękana Szczelina
+"POINT (418032.788677127 5454274.87819274)";n7490429423;"7490429423";node;cave_entrance;;;;;;;;;"10";;;T.E-09.11;;;;;;;;;;;;;;;;;;Jaskinia z Konkrecjami Niżnia
+"POINT (418050.770431569 5454266.88274079)";n7490429424;"7490429424";node;cave_entrance;;;;;;;;;"3";;;T.E-09.13;;;;;;;;;;;;;;;;;;Dziura z Konkrecjami Wyżnia
+"POINT (424635.103007357 5456277.08307219)";n7490553666;"7490553666";node;cave_entrance;;;;;;;;;"11";"0";;T.C-15.06;;;;"169041";;;;;;;;;pl:Mokra Koleba;Q28673311;;;;Mokra Koleba
+"POINT (417540.975517957 5454530.768122)";n7490553667;"7490553667";node;cave_entrance;;;;;;;;;"3";"0";;T.E-08.33;;;;;;;;;;;;;;;;;;Schron przy Smoczej Jamie
+"POINT (420008.976994602 5454787.67824606)";n7490553668;"7490553668";node;cave_entrance;;;;;;;;;"3.5";"0";;T.E-11.28;;;;;;;;;;;;;;;;;;Schron przy Studni
+"POINT (417363.969982172 5455817.10941326)";n7490553673;"7490553673";node;cave_entrance;;;;;;;;;"4.5";"0";;T.D-08.34;;;Schron przed Sową Trzeci;;;;;;;;;;;;;;;Schron przed Sową III
+"POINT (424632.877620853 5456416.95518107)";n7490603369;"7490603369";node;cave_entrance;;;;;;;;;"4.2";"0";;T.C-15.12;;;;;;;;;;;;;;;;;;Kalacki Korytarzyk
+"POINT (421691.587354692 5454827.55451986)";n7490603372;"7490603372";node;cave_entrance;;;;;;;;;"12.5";"2.7";;T.E-12.35;;;;;;;;;;;;;pl:Dziura pod Świstową Studnią;Q24949229;;;;Dziura pod Świstową Studnią
+"POINT (418405.027746392 5457425.91780033)";n8805220323;"8805220323";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Mała dziura w Kończystej Turni
+"POINT (418996.07528311 5457276.04691653)";n8805220345;"8805220345";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina Przysłopczańska
+"POINT (418401.990345199 5457337.91016024)";n8805220346;"8805220346";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Żlebku
+"POINT (418386.717624803 5457368.92571381)";n8805220347;"8805220347";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schronik w Kończystej Turni
+"POINT (418458.185449026 5457435.73721543)";n8805220348;"8805220348";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Niska
+"POINT (418520.787164163 5457341.33075682)";n8805220349;"8805220349";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Ciasna Norka
+"POINT (418437.325281279 5457381.44025757)";n8805220350;"8805220350";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron pod Kończystą
+"POINT (418561.318445157 5457439.03504375)";n8805220351;"8805220351";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1174";;Nyża w Kończystej
+"POINT (418528.2427996 5457377.95803721)";n8805220352;"8805220352";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Okap w Kończystej Turni
+"POINT (418633.679235165 5457367.67999934)";n8805220353;"8805220353";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schronisko Wschodnie w Kończystej
+"POINT (418920.452174538 5457350.6029547)";n8805220354;"8805220354";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Barłogowa
+"POINT (419024.613309919 5457329.75470052)";n8805220355;"8805220355";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura za Smrekiem w Zawiesistej
+"POINT (421372.615869285 5458606.76969239)";n8806223753;"8806223753";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jasiowy Schron
+"POINT (417502.656110344 5456274.35142423)";n8806223788;"8806223788";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina przy Dziurawcu
+"POINT (417497.857740987 5456069.84131481)";n8806223789;"8806223789";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura za Wapiennikiem
+"POINT (417627.357704769 5456099.29081264)";n8806223791;"8806223791";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Komora w Okręcie
+"POINT (417641.298112455 5456082.87038754)";n8806223792;"8806223792";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nisza z Jaworem
+"POINT (417692.088476966 5456077.97414841)";n8806223793;"8806223793";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina za Okrętem Pierwsza
+"POINT (417727.49886579 5456340.33546569)";n8806223794;"8806223794";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia w Małym Krakowie
+"POINT (417929.239790293 5456423.74101645)";n8806223796;"8806223796";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Tatowa Szczelina
+"POINT (417868.916662601 5455749.1958142)";n8807314819;"8807314819";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Żwirowa Dziura Wyżnia
+"POINT (418139.130260506 5455241.4948168)";n8807314826;"8807314826";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Żdziarach
+"POINT (417922.345031749 5455230.74628719)";n8807314832;"8807314832";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Zimna
+"POINT (417770.612256324 5455579.18386665)";n8807314838;"8807314838";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Okno w Zamczysku
+"POINT (417765.067823578 5455595.91210141)";n8807314839;"8807314839";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Organach Pierwsza
+"POINT (417772.731457503 5455552.93320615)";n8807314840;"8807314840";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nyża z Dzięglem
+"POINT (417767.243458155 5455498.40896398)";n8807314841;"8807314841";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Organach Siódma
+"POINT (417393.976685237 5455755.19203953)";n8807314844;"8807314844";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron przed Sową Drugi
+"POINT (417634.687346105 5455852.23516151)";n8807314845;"8807314845";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina pod Tunelem Pawlikowskiego
+"POINT (417627.364816422 5455787.56441031)";n8807314846;"8807314846";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura pod Oknem
+"POINT (417342.953439662 5455961.40750503)";n8807314847;"8807314847";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina nad Mostkiem
+"POINT (417670.553054901 5455974.00948399)";n8807314848;"8807314848";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina za Okrętem Trzecia
+"POINT (417671.939506406 5455991.75719423)";n8807314849;"8807314849";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina za Okrętem Druga
+"POINT (417671.754224047 5455898.60347002)";n8807314851;"8807314851";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron ze Świeczką
+"POINT (417647.79291752 5455898.18363526)";n8807314852;"8807314852";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinie Między Żleby
+"POINT (417620.252419506 5455878.9371092)";n8807314853;"8807314853";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Korytarz do Jaskini Naciekowej
+"POINT (417623.671802801 5455899.24514803)";n8807314854;"8807314854";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Goryckiego
+"POINT (417603.948935442 5455922.30137433)";n8807314855;"8807314855";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wąska Szczelina
+"POINT (417747.329629089 5455786.45955607)";n8807314856;"8807314856";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Lejek
+"POINT (417855.826122234 5455747.06727711)";n8807314857;"8807314857";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Żwirowa Dziura Niżnia
+"POINT (417840.1569751 5455740.91876849)";n8807314858;"8807314858";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron między Żwirowymi Dziurami
+"POINT (417860.499083256 5455561.70775768)";n8807314861;"8807314861";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Organach Czwarta
+"POINT (417834.854754988 5455559.33297756)";n8807314862;"8807314862";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Organach Druga
+"POINT (417836.423441254 5455502.03474298)";n8807314863;"8807314863";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Organach Trzecia
+"POINT (417800.623062441 5455538.10614206)";n8807314865;"8807314865";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina z Mostkiem
+"POINT (417695.888751117 5455545.5422324)";n8807314867;"8807314867";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Bardzo Niska Nyża
+"POINT (417712.944421684 5455552.35900616)";n8807314868;"8807314868";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Murem
+"POINT (417753.906523017 5455607.46490829)";n8807314870;"8807314870";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Organach Piąta
+"POINT (417731.274935443 5455621.09055931)";n8807314873;"8807314873";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Organach Szósta
+"POINT (417376.977048872 5455619.23712677)";n8807314875;"8807314875";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron przed Sową Pierwszy
+"POINT (417723.302736638 5455782.17088756)";n8807314876;"8807314876";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina nad Jaskinią Zimną
+"POINT (417725.302839293 5455800.07621612)";n8807314877;"8807314877";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zbójnicka Nyża
+"POINT (417767.333992695 5455834.29551801)";n8807314878;"8807314878";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron przy Jaskini Naciekowej
+"POINT (417763.929380624 5455791.55981156)";n8807314879;"8807314879";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia pod Ostrewką
+"POINT (417802.813718306 5455800.29678437)";n8807314880;"8807314880";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Balkonowa
+"POINT (417804.26552095 5455781.99518409)";n8807314881;"8807314881";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Korytarz z Różą
+"POINT (417776.102922049 5455772.75330807)";n8807314882;"8807314882";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Krwawego Nosa
+"POINT (417815.176857768 5455840.48585829)";n8807314883;"8807314883";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Przelot
+"POINT (417329.887007899 5455460.27265675)";n8809440017;"8809440017";node;cave_entrance;;;;;;;;;;;;;;;Zimna Szczelina III;;;;;;;;;;pl:Zimna Szczelina III;Q28674194;;;;Zimna Szczelina Trzecia
+"POINT (417370.154331085 5455537.64686547)";n8809440018;"8809440018";node;cave_entrance;;;;;;;;;;;;;;;Zimna Szczelina II;;;;;;;;;;pl:Zimna Szczelina II;Q24514316;;;;Zimna Szczelina Druga
+"POINT (417370.128393876 5455608.16515656)";n8809440020;"8809440020";node;cave_entrance;;;;;;;;;;;;;;;Sowia Jama I;;;;;;;;;;pl:Sowia Jama I;Q24514287;;;;Sowia Jama Pierwsza
+"POINT (417375.588621975 5455594.15083871)";n8809440021;"8809440021";node;cave_entrance;;Dziura nad Sową;;;;;;;;;;;;;Sowia Jama III;;;;;;;;;;pl:Sowia Jama III;Q48842678;;;;Sowia Jama Trzecia
+"POINT (417361.987147122 5455598.7582422)";n8809440022;"8809440022";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Sowia Jama Druga
+"POINT (417397.596257647 5455590.89615448)";n8809440023;"8809440023";node;cave_entrance;;;;;;;;;;;;;;;Zimna Szczelina I;;;;;;;;;;pl:Zimna Szczelina I;Q24514271;;;;Zimna Szczelina Pierwsza
+"POINT (416088.596684628 5455122.7846199)";n8809479325;"8809479325";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziurka od Klucza
+"POINT (416268.454680192 5455088.12252674)";n8809479327;"8809479327";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Rura Kominiarska
+"POINT (416338.259983931 5455018.91138168)";n8809479328;"8809479328";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia w Kociołku pod Bandziochem
+"POINT (416325.606995294 5455034.71510022)";n8809479329;"8809479329";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Trzyotworowy Kominek przy Bandziochu
+"POINT (416308.205142246 5455028.34145522)";n8809479330;"8809479330";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kominek przy Bandziochu
+"POINT (417291.339756298 5455520.2060131)";n8809479332;"8809479332";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron pod Kazalnicą
+"POINT (417247.89250639 5455507.39372498)";n8809479333;"8809479333";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura pod Kazalnicą
+"POINT (417307.52734571 5455423.17022473)";n8809479334;"8809479334";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wiciowy Schron
+"POINT (417124.921719856 5455487.68382367)";n8809479337;"8809479337";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kopalnia Maturka
+"POINT (417130.443979209 5455532.45553486)";n8809479338;"8809479338";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wielka Nyża
+"POINT (416981.707909049 5455501.91754244)";n8809479340;"8809479340";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Otwarty Schron
+"POINT (416860.347256038 5455508.40834533)";n8809479342;"8809479342";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziura w Stołach
+"POINT (416804.467403245 5455520.29409675)";n8809479345;"8809479345";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jaskinia Zawaliskowa w Stołach
+"POINT (416315.491370404 5455086.20638311)";n8809479347;"8809479347";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nisza Wschodnia
+"POINT (416433.146045231 5455085.79780649)";n8809479349;"8809479349";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nyża pod Bandziochem
+"POINT (416408.163122861 5455070.13207516)";n8809479350;"8809479350";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina pod Bandziochem
+"POINT (416398.659490813 5455264.54053409)";n8809479351;"8809479351";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina przy Bandziochu
+"POINT (416275.390006487 5455180.32896798)";n8809479352;"8809479352";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schronisko pod Trawersem w Żeleźniaku Drugie
+"POINT (416301.753478863 5455172.84508698)";n8809479353;"8809479353";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schronisko pod Trawersem w Żeleźniaku Pierwsze
+"POINT (413544.284168872 5455458.30019239)";n8809867704;"8809867704";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Piwnica
+"POINT (413587.643238268 5455375.81394436)";n8809867705;"8809867705";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szczelina Chochołowska
+"POINT (413528.012693613 5455401.69121891)";n8809867706;"8809867706";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Schron przy Szczelinie
+"POINT (414462.409754535 5457113.39357696)";n8809914844;"8809914844";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wojtkowa Szpara
+"POINT (414604.704855457 5458982.04130919)";n8809914867;"8809914867";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Siwiańska Dziura
+"POINT (426892.499757304 5455717.07686874)";n9212938890;"9212938890";node;cave_entrance;;;gate;;;;N;;;;;;;;;;Drugi (górny) otwór Jaskini Magurskiej;;;;;;;;;;;"1475";no;Jaskinia Magurska
+"POINT (423131.891904906 5458182.93523107)";n9426211876;"9426211876";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;no;Schron nad Dziurą Wyżnią
+"POINT (423111.273062057 5458235.51587849)";n9426211877;"9426211877";node;cave_entrance;;;;;;;;;;;;;;;;;"Górny, niedostępny turystycznie otwór jaskini";;;;;;;;;;;;no;Dziura
+"POINT (423127.347666223 5458201.88983858)";n9426211878;"9426211878";node;cave_entrance;;;;;;;;;;;;;;;;;Część systemu Dziura Wyżnia-Lisia Jama;;;;;;;;pl:Dziura Wyżnia – Lisia Jama;Q22569724;;;no;Lisia Jama
+"POINT (423130.251689424 5458183.74760303)";n9426211879;"9426211879";node;cave_entrance;;;;;;;;;;;;;;;;;Część systemu Dziura Wyżnia-Lisia Jama;;;;;;;;pl:Dziura Wyżnia – Lisia Jama;Q22569724;;;no;Dziura Wyżnia
+"POINT (421048.972931985 5453352.2387819)";n10145428687;"10145428687";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kresanica
+"POINT (420798.943755246 5453650.20340239)";n10145428689;"10145428689";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Vyšná Kresanica
+"POINT (420969.619565492 5453430.39792198)";n10145441772;"10145441772";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nová Kresanica
+"POINT (422084.25132266 5453205.73676248)";n10148105833;"10148105833";node;cave_entrance;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Občasná vyvieračka
+"POINT (414174.1035484 5455687.84320196)";n12141878218;"12141878218";node;cave_entrance;;;;;;;;;"15";;;;;;;;;;;;;;;;;;;;;Szczelina nad Jaskinią w Dudzińcu
+"POINT (419008.3335015 5453971.9688155)";n12141926251;"12141926251";node;cave_entrance;;;;;;;;;"12";"10";;;;;;;;;;;;;;;;;;;;Studnia Kuturniańska
+"POINT (416110.456778427 5454845.09296616)";n12141926418;"12141926418";node;cave_entrance;;;;;;;;;"3.5";"0";;;;;;;;;;;;;;;;;;;;Jaskinia nad Smytnią
+"POINT (431180.041657383 5449392.37746147)";n12141936853;"12141936853";node;cave_entrance;;;;;;;;;"14";"3.8";;;;;;;;;;;;;;;;;;;;Jaskinia przy Studni w Mnichu
+"POINT (424147.288075857 5457442.49459487)";n12141951678;"12141951678";node;cave_entrance;;;;;;;;;"3";"0";;;;;;;;;;;;;;;;;;;;Koleba nad Doliną Białego
+"POINT (433693.994961306 5455041.82261803)";n12858732153;"12858732153";node;cave_entrance;Jaskinia Wołoszyńska Niżnia;;;;;;;;;;;;;;;;;;;;;;;;;Q22569768;;;;Jaskinia Wołoszyńska Niżnia
+"POINT (433683.088605921 5455016.2816)";n12858774764;"12858774764";node;cave_entrance;Jaskinia Wołoszyńska Wyżnia;;;;;;;;;;;;;;;;;;;;;;;;;Q22569769;;;;Jaskinia Wołoszyńska Wyżnia
