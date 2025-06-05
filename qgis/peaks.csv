@@ -1,485 +1,129 @@
-WKT;full_id;osm_id;osm_type;natural;ref:ckkp;source:name;name:ru;summit:cross;name:be;importance;reg_name;official_name;checkpoint:type;checkpoint;import_ref;wheelchair;toilets:wheelchair;summit:register;source:name:sk;alt_name;name:en;access;name:cs;old_name;loc_name;tourism;source:ele;old_name:pl;note:pl;note:en;description;alt_name:pl;alt_name:hu;alt_name:de;alt_name:sk;old_name:sk;official_name:pl;note:prominence;prominence;wikipedia;wikidata;source:position;source:ele:bpv;ref:prng;name:sk;name:pl;name:hu;name:de;name;ele:bpv;ele
-"POINT (431044.892473653 5448764.10757276)";n321624997;"321624997";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Cubryna;Q9196971;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"18121";Čubrina;Cubryna;Csubrina;Fichtentalspitze;Cubryna / Čubrina;"2375.95";"2376"
-"POINT (428250.137064242 5452955.66517152)";n355985949;"355985949";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kościelec (Tatry);Q3695958;;;"59391";;;Kápolna-csúcs;;Kościelec;;"2155"
-"POINT (430641.318184733 5448165.73769788)";n380745908;"380745908";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"157";sk:Kôprovský štít;Q723092;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Koprowy Wierch;Kapor-csúcs;Koprovaspitze;Kôprovský štít;"2366.08";"2367"
-"POINT (437153.643231311 5451049.93039846)";n385075802;"385075802";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;sk:Široká (vrch vo Vysokých Tatrách);Q3594269;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Szeroka Jaworzyńska;;;Široká;"2210.68";"2210"
-"POINT (432042.552278778 5448198.35357816)";n385103809;"385103809";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Mięguszowiecki Czarny;97?;"103";pl:Mięguszowiecki Szczyt Czarny;Q11783967;;;"80256";Východný Mengusovský štít;Mięguszowiecki Szczyt Czarny;Keleti-Menguszfalvi-csúcs;Östliche Mengsdorfer Spitze;Mięguszowiecki Szczyt Czarny / Východný Mengusovský štít;;"2410"
-"POINT (432594.667174848 5447755.44136056)";n385106041;"385106041";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Volova veža;;;;pl:Wołowa Turnia;Q1714138;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"150743";Volia veža;Wołowa Turnia;Ökörhát-torony;Ochsenrückenturm;Volia veža / Wołowa Turnia;"2373.41";"2373"
-"POINT (433636.678391617 5448737.34045328)";n385106042;"385106042";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Vyšný Žabí štít;;;;;pl:Żabi Szczyt Wyżni;Q3556467;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Veľký Žabí štít;Żabi Szczyt Wyżni;Nagy-Békás-csúcs;Große Froschspitze;Veľký Žabí štít / Żabi Szczyt Wyżni;"2259.49";"2263"
-"POINT (427667.404851769 5451657.43755203)";n385107932;"385107932";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;Walentkowa;Bálint-csúcs;Walentinspitze;;;;;;pl:Walentkowy Wierch;Q3495667;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"143693";Valentková;Walentkowy Wierch;Walentko-csúcs;Valentinsberg;Valentková / Walentkowy Wierch;"2156.15";"2156"
-"POINT (433540.240352901 5448243.07038366)";n385115017;"385115017";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;Trzeci pod względem wysokości szczyt w Polsce;;Középső-Dénes-csúcs;;Nižné Rysy;;;;"65";;Q3284720;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"87710";Malé Rysy;Niżnie Rysy;Dénes-csúcs;Dénesspitze;Malé Rysy / Niżnie Rysy;"2430.83";"2430"
-"POINT (427079.957785481 5452746.33479086)";n385115021;"385115021";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;"uwaga, nie leży w głównej grani zob. http://hemli-w-gorach.blogspot.com/2013/08/skrajna-turnia.html, zweryfikowane na numerycznym modelu terenu";"warning, not part of the main crest of the Tatras, see http://hemli-w-gorach.blogspot.com/2013/08/skrajna-turnia.html, checked also on a digital elevation model";;;;;Skrajná Túreň;;;;"27";pl:Skrajna Turnia;Q957545;;;"123974";Krajná Kopa;Skrajna Turnia;Szélső-torony;Randturm;Krajná Kopa / Skrajna Turnia;;"2097"
-"POINT (436607.896935117 5447977.42093187)";n385123163;"385123163";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;sk:Hrubá veža;Q9294467;ÚGKK SR DMR5.0;;;;Hruba Turnia;Vastag-torony;;Hrubá veža;;"2086"
-"POINT (428138.279764385 5450910.94615065)";n385123541;"385123541";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Glatki;Glattkoppe;;;;;"71";pl:Gładki Wierch;Q3495327;;;"33241";Hladký štít;Gładki Wierch;Sima-hegy;Glatter Berg;Gładki Wierch / Hladký štít;;"2065"
-"POINT (430805.109136021 5448958.46959617)";n385123800;"385123800";node;peak;;;;;;;;;;;;;;;;;;;;;;;;"Cukrowa Skała;Głowa Cukru";;;;;Hátsó-Barát;Hinterer Mönch;Zadný Mních;;;;;pl:Zadni Mnich;Q9385703;;;"155437";Druhý Mních;Zadni Mnich;Barát II;Mönch II;Druhý Mních / Zadni Mnich;;"2172"
-"POINT (426313.53129395 5453321.17430004)";n430646675;"430646675";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"60";pl:Beskid (Tatry);Q9169549;;;"3933";Beskyd;Beskid;;;Beskid / Beskyd;;"2012"
-"POINT (430069.112015648 5449831.4790492)";n452477062;"452477062";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;Gruby Wierch;Liptói-határhegy;Liptauer Grenzberg;;;;;"62";pl:Szpiglasowy Wierch;Q3504334;;;"135924";Hrubý štít;Szpiglasowy Wierch;Gruby;Gruby;Hrubý štít / Szpiglasowy Wierch;;"2172.1"
-"POINT (429501.010486996 5450135.28827509)";n452477312;"452477312";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;Niżni Liptowski Kostur;;;;;;;;pl:Niżni Kostur;Q11792499;;;"87670";Nižný kostúr;Niżni Kostur;Alsó-Liptói-Őrszem;Unterer Liptauer Wachturm;Niżni Kostur / Nižný kostúr;;"2055"
-"POINT (428638.280165198 5452254.91103368)";n460928032;"460928032";node;peak;;;;;;;;;;;;;;;;;;;;;;;https://geoforum.pl/news/32818/wysokosc-rysow-zweryfikowana https://www.igig.up.wroc.pl/?menu=Aktualnosci&id=538;;;;;;;;;;;;;pl:Mały Kozi Wierch;Q11772556;;;"77096";Malý Kozí vrch;Mały Kozi Wierch;Kis-Zerge-hegy;Kleiner Gemsenberg;Mały Kozi Wierch;;"2226"
-"POINT (429268.553979903 5452179.51639803)";n460928401;"460928401";node;peak;;;;;;;;;;;;;;;;;;;;;;viewpoint;;;;;;;;;;;;;"168";pl:Kozi Wierch;Q1765870;;;"60330";Kozí vrch;Kozi Wierch;Zerge-csúcs;;Kozi Wierch;;"2291"
-"POINT (422954.36939744 5457443.53002145)";n469733583;"469733583";node;peak;;;;;;;;;;;;;;;;;;;;Mała Świnica;Sarnia Skałka;;;;;;;;;;;;;;;pl:Sarnia Skała;Q9333913;;;"120878";;;;;Sarnia Skała;;"1378"
-"POINT (412662.897211695 5449630.53275519)";n495956991;"495956991";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"262";cs:Jakubina;Q3509792;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Jakubina;"2193.84";"2194"
-"POINT (415555.840098331 5449516.43350751)";n495957128;"495957128";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Błyszcz (Tatry);Q9183560;;;;Blyšť;Błyszcz;;;Blyšť / Błyszcz;;"2159"
-"POINT (415664.863060074 5449068.59743946)";n495957137;"495957137";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"563";sk:Bystrá (vrch v Západných Tatrách);Q1018683;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Bystrá;Bystra;;;Bystrá;"2248.12";"2248"
-"POINT (420164.598481492 5453714.92438029)";n496805357;"496805357";node;peak;;;;;;;;;;;;;;;;;;;Temniak;;;;;;;;;;;;;;;;;pl:Ciemniak;Q11690580;;;"17445";Temniak;Ciemniak;Sötét-hegy;;Ciemniak / Temniak;;"2096"
-"POINT (421323.821857039 5454234.45310105)";n496805360;"496805360";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Malolučniak;;;;;pl:Małołączniak;Q11772508;;;;Malolučniak;Małołączniak;Kis-réti-hegy;;Malolučniak / Małołączniak;;"2096"
-"POINT (437866.53114686 5448133.49861632)";n604540297;"604540297";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;sk:Svišťový štít;Q9396501;;;;;Świstowy Szczyt;Középhegység;Mittelgebirge;Svišťový štít;;"2382"
-"POINT (438016.608915023 5449242.27666818)";n605040268;"605040268";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q31568279;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;Elülső-Jávor-torony;;Predná Javorová veža;"2221.00";"2222"
-"POINT (437603.937574713 5449749.17035572)";n605040269;"605040269";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q31568262;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;Békás-hegy;;Žabí vrch;"2203.27";"2203"
-"POINT (427533.286331051 5450293.45690383)";n605282343;"605282343";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Cichy Wierch;Q11690548;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Cichy Wierch;Csendes-hegy;;Tichý vrch;"1979.37";"1979"
-"POINT (431140.918724939 5449304.86359713)";n605282386;"605282386";node;peak;;;;;;;;;;;;;;;;;Monk;guided;;;;;;;;;;;;;;;;;;pl:Mnich (Tatry);Q6885977;;;"82018";Mních;;Barát;Mönch;Mnich;;"2068"
-"POINT (433970.41951 5448227.50907825)";n605282389;"605282389";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11690726;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Ciężka Turnia;Cseh-tavi-torony;Böhmischseeturm;Ťažká veža;"2255.00";"2254"
-"POINT (434572.882901154 5449978.75088643)";n605282396;"605282396";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mały Młynarz;Q11772569;;;;;Mały Młynarz;Kis-Molnár;Kleiner Müller;Malý Mlynár;;"1973"
-"POINT (437046.412363651 5450471.04026438)";n605507577;"605507577";node;peak;;;;;;;;;;;;;;;;Zelená kopa;;;;;;;;;;;;;;;;;;;;pl:Zielona Czuba;Q9390969;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Zielona Czuba;Zöld-tavi-hegy;;štít Nad Zeleným;"2127.80";"2130"
-"POINT (437417.554522503 5451898.22499698)";n605507581;"605507581";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Świstowa Góra;Q9396490;;;;;Świstowa Góra;;;Svišťovky;;"2070"
-"POINT (431453.135446034 5448673.26283602)";n615589377;"615589377";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;Drugi pod względem wysokości szczyt w Polsce;;;;;;Mięguszowiecki Szczyt;;"213";pl:Mięguszowiecki Szczyt;Q3132319;;;"80258";Veľký Mengusovský štít;Mięguszowiecki Szczyt Wielki;Nagy-Menguszfalvi-csúcs;Große Mengsdorfer Spitze;Mięguszowiecki Szczyt Wielki / Veľký Mengusovský štít;;"2438"
-"POINT (433495.408357229 5448300.35843776)";n615589972;"615589972";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"Niżne Rysy, Zadnia Turnia / Malé Rysy, Zadná veža";;"2410"
-"POINT (411549.387237142 5455538.86687387)";n615736220;"615736220";node;peak;;;;;;;;;;;;;;;skgeodesy.sk;;;;;;;;;;;;;;;;;;;;"309";pl:Bobrowiec (Tatry);Q9174818;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Bobrovec;Bobrowiec;;;Bobrowiec / Bobrovec;"1664.71";"1665"
-"POINT (432805.645375336 5456661.71366984)";n803761539;"803761539";node;peak;;;;;;;;;;;;limited;no;no;;;;;;;;;;;;;;;;;;;;;;pl:Gęsia Szyja;Q9284045;;;"32329";;;;;Gęsia Szyja;;"1489"
-"POINT (410218.110435876 5454494.51083152)";n803761542;"803761542";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Grześ;Q11702821;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Lúčna;Grześ;Rét-hegy;;Grześ / Lúčna;"1652.82";"1653"
-"POINT (409585.089222544 5452205.04074672)";n946080669;"946080669";node;peak;;;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;pl:Rakoń;Q9303722;;;;Rákoň;Rakoń;Rákony;;Rakoń / Rákoň;;"1879"
-"POINT (426496.9496231 5458677.32408754)";n1103336843;"1103336843";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"103";pl:Nosal (Tatry);Q17619460;;;"87788";;;;;Nosal;;"1205.7"
-"POINT (426602.215027045 5457759.28578744)";n1103336859;"1103336859";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Nieborak;Q11791291;;;"86346";;;;;Nieborak;;"1219"
-"POINT (430603.624342043 5450239.71083098)";n1103423432;"1103423432";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"204";pl:Miedziane (Tatry);Q11780117;;;"79634";;;;;Miedziane;;"2233"
-"POINT (431462.801245133 5450948.42481991)";n1103423820;"1103423820";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Opalony Wierch;Q11798451;;;;Opálený vrch;Opalony Wierch;;;Opalony Wierch;;"2115"
-"POINT (429582.393448214 5450050.75943742)";n1103562910;"1103562910";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wyżni Liptowski Kostur;;;;;;;;pl:Wyżni Kostur;Q769933;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"154022";Vyšný kostúr;Wyżni Kostur;Felső-Liptói-Őrszem;Oberer Liptauer Wachturm;Vyšný kostúr / Wyżni Kostur;"2079.51";"2083"
-"POINT (428660.315661383 5452255.20383401)";n1103562966;"1103562966";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;"Główny, zachodni wierzchołek Zmarzłych Czub";;;;;;;;;;;;;;Zmrzlé čuby;;Fagyott-tavi-taraj;Gefrorene Zacken;Zmarzłe Czuby;;
-"POINT (430695.160837735 5450946.50478812)";n1103562984;"1103562984";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Niedźwiedź (Miedziane);Q16582130;;;"86700";;;;;Niedźwiedź;;"1812"
-"POINT (428948.828727466 5452306.87944702)";n1103563004;"1103563004";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zamarła Turnia;Q9386469;;;"157928";Zmrzlá veža;;Zamarła-torony;Ödkarturm;Zamarła Turnia;;"2179"
-"POINT (428180.209971858 5452342.11785124)";n1103563228;"1103563228";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Niebieska Turnia;Q11791252;;;"86332";Nebeská veža;Niebieska Turnia;Niebieska-torony;;Niebieska Turnia;;"2262"
-"POINT (429192.087311052 5452220.92562837)";n1103563275;"1103563275";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"60465";Kozie čuby;;Zerge-bástya;Gemsenbastei;Kozie Czuby;;"2263"
-"POINT (429644.381526924 5452394.23992887)";n1103563283;"1103563283";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Bükk-völgyi-őrtorony;;;;;;;pl:Buczynowa Strażnica;Q9181257;;;"12261";Bučinová strážnica;Buczynowa Strażnica;Buczyna-őrtorony;;Buczynowa Strażnica;;"2242"
-"POINT (430043.1429383 5448345.77105605)";n1158722712;"1158722712";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Vyšný Prostredný chrbát;;"2225"
-"POINT (413408.20695931 5454253.20710583)";n1294543765;"1294543765";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mały Kopieniec (Dolina Chochołowska);Q11772550;;;;;;;;Mały Kopieniec;;"1329"
-"POINT (411030.418931118 5450963.46460957)";n1294543790;"1294543790";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"119";pl:Łopata (Tatry);Q9394322;;;;Deravá;Łopata;Lapát-hegy;;Deravá / Łopata;;"1958"
-"POINT (413183.204946618 5451785.13676042)";n1294543793;"1294543793";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Czubik;Q11692335;;;;;;;;Czubik;;"1846"
-"POINT (412886.881149733 5452501.61967336)";n1294543814;"1294543814";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Trzydniowiański Wierch;Q9362376;;;;;;Háromnapos-hegy;;Trzydniowiański Wierch;;"1758"
-"POINT (414033.407444033 5450289.48451239)";n1294543835;"1294543835";node;peak;;;;;;;;;stamp;hiking;;;;;;;;;;;;;;Wysoki Wierch;;;;;;;;;;;"221";en:Klin (mountain);Q3544114;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Klin;Starorobociański Wierch;Ék-hegy;;Klin / Starorobociański Wierch;"2175.85";"2176"
-"POINT (413144.348285483 5451002.502655)";n1294543842;"1294543842";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kończysta nad Jarząbczą;;;;;;;;pl:Kończysty Wierch;Q11744818;;;;Končistá;Kończysty Wierch;Koncsiszta;;Končistá / Kończysty Wierch;;"2002"
-"POINT (413379.085723137 5454744.96407102)";n1294543865;"1294543865";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielki Kopieniec (Dolina Chochołowska);Q9372946;;;;;;;;Wielki Kopieniec;;"1257"
-"POINT (414736.847219689 5450532.390543)";n1294577864;"1294577864";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Siwy Zwornik;Q9337357;;;;Sivá veža;Siwy Zwornik;;;Sivá veža / Siwy Zwornik;;"1965"
-"POINT (415014.783481001 5452461.96834251)";n1294577934;"1294577934";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Ornak (szczyt);Q11799298;;;;;;;;Ornak;;"1854"
-"POINT (424734.141793793 5453681.88733379)";n1295278125;"1295278125";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Pośredni Goryczkowy Wierch;Q11826357;;;"109100";Prostredný Goričkový vrch;Pośredni Goryczkowy Wierch;;;Pośredni Goryczkowy Wierch / Prostredný Goričkový vrch;;"1874"
-"POINT (424632.535623616 5456416.9598655)";n1295278129;"1295278129";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kalacka Turnia;Q11733428;;;"48316";;;;;Kalacka Turnia;;"1383"
-"POINT (425584.239080832 5454741.92686425)";n1295278131;"1295278131";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Sucha Czuba;Q9347753;;;"132910";;;;;Sucha Czuba;;"1696"
-"POINT (422727.011304934 5456022.23878665)";n1295278134;"1295278134";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Długi Giewont;Q9249477;;;"24004";;;Hosszú-Giewont;;Długi Giewont;;"1867"
-"POINT (424112.061316769 5453799.35549102)";n1295278137;"1295278137";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Horičkova kopa;;;;;pl:Goryczkowa Czuba;Q9274624;;;"35057";Goričkova kopa;Goryczkowa Czuba;;;Goričkova kopa / Goryczkowa Czuba;;"1912"
-"POINT (422430.593322154 5455900.37585371)";n1295278143;"1295278143";node;peak;;;;;;;;Giewont;;;;;;;;;;;;;;;;;;;;;;;;;;;"170";pl:Wielki Giewont;Q9372923;;;"32582";;Wielki Giewont;Nagy-Giewont;;Wielki Giewont;;"1894.5"
-"POINT (423866.399323703 5456266.75052444)";n1295278146;"1295278146";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kalacka Kopa;Q11733425;;;"48315";;;;;Kalacka Kopa;;"1601"
-"POINT (422856.172778341 5453970.07921257)";n1295278148;"1295278148";node;peak;;;;;;;;;;;;;;;skgeodesy.sk;;;;;;;;;;;;;;;;Suchý vrch Kondracký;;;;;pl:Suchy Wierch Kondracki;Q9347852;;;"133275";Suchá kopa;Suchy Wierch Kondracki;;;Suchy Wierch Kondracki / Suchá kopa;;"1893"
-"POINT (423047.572353368 5456676.46475526)";n1295278153;"1295278153";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Suchy Wierch (Giewont);Q9347844;;;;;;;;Suchy Wierch;;"1539"
-"POINT (425319.764346638 5455967.00705487)";n1295278154;"1295278154";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Myślenickie Turnie;Q11787708;;;"84571";;;;;Myślenickie Turnie;;"1354"
-"POINT (418410.19507358 5454464.51337807)";n1295341384;"1295341384";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Upłazkowa Turnia;Q9366959;;;"143040";;;;;Upłazkowa Turnia;;"1608"
-"POINT (420058.527887539 5451749.21194081)";n1295341387;"1295341387";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"178";pl:Tomanowy Wierch Polski;Q9359134;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"139800";Poľská Tomanová;Tomanowy Wierch Polski;;;Poľská Tomanová / Tomanowy Wierch Polski;"1977.27";"1977"
-"POINT (419183.134997028 5454675.12816368)";n1295341388;"1295341388";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Upłaziańska Kopa;Q9366951;;;;;;;;Upłaziańska Kopa;;"1796"
-"POINT (418478.885868867 5450759.57533384)";n1295341390;"1295341390";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Smrečinský vrch;;;;"155";;;;;;Smrečiny;Smreczyński Wierch;;;Smreczyński Wierch / Smrečiny;;"2067"
-"POINT (418672.655250498 5454297.54643117)";n1295341391;"1295341391";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wysoka Turnia;Q9380223;;;;;;;;Wysoka Turnia;;"1643"
-"POINT (419944.458680232 5454126.18837759)";n1295341393;"1295341393";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Twarda Kopa;Q9363138;;;"174802";;;;;Twarda Kopa;;"2026"
-"POINT (420033.599288066 5452112.98656864)";n1295341394;"1295341394";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Suchy Wierch Tomanowy;Q9347857;;;"133277";Suchý vrch;Suchy Wierch Tomanowy;;;Suchy Wierch Tomanowy / Suchý vrch;;"1869"
-"POINT (420191.245999134 5453113.64489017)";n1295341396;"1295341396";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;;"1942.55";"1943"
-"POINT (423640.252453918 5456785.88953843)";n1295341398;"1295341398";node;peak;;;;;;;;;;;;;;;;Słupy;;;;;;;;;;;;;;;;;;;;pl:Zameczki;Q17619441;;;"158022";;;;;Zameczki;;"1434"
-"POINT (417714.896502553 5449785.51000895)";n1295341400;"1295341400";node;peak;;;;;;;pl:Babie Nogi;;;;;;;;;;;;;;;;;;;;;;;;;;;;"340";"sk:Veľká Kamenistá;pl:Kamienista";Q2855198;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"49162";Veľká Kamenistá;Kamienista;;;Veľká Kamenistá / Kamienista;"2127.23";"2127"
-"POINT (419576.4720157 5454524.75377418)";n1295341401;"1295341401";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Chuda Turnia;Q11690397;;;;;;;;Chuda Turnia;;"1858"
-"POINT (420608.75976809 5453781.59961021)";n1295341402;"1295341402";node;peak;;;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;Kresanica;;;;;;;;;;;;;;;;"324";pl:Krzesanica;Q2582708;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"63325";Kresanica;Krzesanica;Vésett-kő;;Kresanica / Krzesanica;"2122.23";"2122"
-"POINT (421090.592168222 5457164.9008786)";n1295341403;"1295341403";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Łysanki;Q9394922;;;;;;;;Łysanki;;"1446.7"
-"POINT (411263.831391844 5451908.86914917)";n1295379308;"1295379308";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Czerwony Wierch Chochołowski;Q9198932;;;;;;;;Czerwony Wierch;;"1766"
-"POINT (412176.065622909 5455388.82641305)";n1295379310;"1295379310";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Mnichy Chochołowskie;;
-"POINT (415137.588300435 5451116.41529426)";n1295379312;"1295379312";node;peak;;;;;;;;;;;;;;;;Kotłowa Czuba;;;;;;;;;;;;;;;;;;;;pl:Kotłowa Czuba;Q11744439;;;;;;;;Kotłowa Czubka;;"1840"
-"POINT (412710.362276053 5455405.92422945)";n1295379313;"1295379313";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Hrubas;Q9294470;;;;;;;;Hrubas;;"1499"
-"POINT (411092.949883278 5455449.49208459)";n1295379316;"1295379316";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jamborowy Wierch;Q11716735;;;;;Jamborowy Wierch;;;Jamborowy Wierch;;"1565"
-"POINT (415212.683766463 5451792.43178247)";n1295379318;"1295379318";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zadni Ornak;Q9385704;;;;;;;;Zadni Ornak;;"1867"
-"POINT (410777.182544834 5451782.35963316)";n1295379320;"1295379320";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kopa;;"1596"
-"POINT (413134.324984423 5455365.65866295)";n1295379321;"1295379321";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wielkie Turnie;;"1350"
-"POINT (415240.731022541 5454878.94108737)";n1295379325;"1295379325";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"370";pl:Kominiarski Wierch;Q11741584;;;;;;;;Kominiarski Wierch;;"1829"
-"POINT (423618.155762944 5457396.83518125)";n1333271264;"1333271264";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Igła;;"1207"
-"POINT (429759.29831845 5454184.18254119)";n1496149193;"1496149193";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mała Kopka (Tatry Wysokie);Q60854921;;;;;;;;Mała Kopka;;"1793"
-"POINT (429577.891321747 5453451.15126006)";n1496149195;"1496149195";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Pańszczycka Turnia;Q11815291;;;;Panščická veža;Pańszczycka Turnia;Pańszczyca-torony;;Pańszczycka Turnia;;"2105"
-"POINT (429631.382066876 5453259.67319648)";n1496149197;"1496149197";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Skrajna Pańszczycka Czuba;Q24947606;;;;Predná paňščická čuba;Skrajna Pańszczycka Czuba;Elülső-Pańszczyca-púp;;Skrajna Pańszczycka Czuba;;"2155"
-"POINT (430071.677224675 5453875.53614015)";n1496149198;"1496149198";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielka Kopka;Q31791256;;;;;;;;Wielka Kopka;;"1856"
-"POINT (429576.959661486 5453358.35658822)";n1496149199;"1496149199";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wierch pod Fajki;Q9373224;;;;Vrch pod Fajki;Wierch pod Fajki;Orgonasípok;;Wierch pod Fajki;;"2135"
-"POINT (429314.294018069 5453976.15593769)";n1496149233;"1496149233";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Żółta Turnia;Q9397939;;;;;;Sárga-hegy;;Żółta Turnia;;"2047"
-"POINT (429614.910591159 5453134.31075535)";n1496151182;"1496151182";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Skrajny Granat;Q9338167;;;"123993";Predný Granát;;Északi-Gránát-csúcs;Nördliche Granatenspitze;Skrajny Granat;;"2228"
-"POINT (429559.112949833 5452893.20671975)";n1496151183;"1496151183";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zadni Granat;Q9385696;;;"155432";Zadný Granát;;Déli-Gránát-csúcs;Südliche Granatenspitze;Zadni Granat;;"2240"
-"POINT (425599.337267174 5459892.65592086)";n1854451823;"1854451823";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"224884";;;;;Koziniec;;"936"
-"POINT (433568.019678776 5447790.0103263)";n1862536196;"1862536196";node;peak;;;;;Рысы;national;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"193";sk:Rysy (vrch);Q672936;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Rysy;Rysy;Tengerszem-csúcs;Meeraugspitze;Rysy;"2500.66";"2501"
-"POINT (429572.487490143 5452996.62721444)";n1878512558;"1878512558";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Pośredni Granat;Q11826359;;;"109095";Prostredný Granát;;Középső-Gránát-csúcs;Mittlere Granatenspitze;Pośredni Granat;;"2234"
-"POINT (418974.914354392 5455694.51880914)";n1995387408;"1995387408";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Piec (Tatry);Q11816441;;;;;;;;Piec;;"1472"
-"POINT (419011.589894055 5455884.18245667)";n1995387409;"1995387409";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Upłaziańska Kopka;Q9366952;;;;;;;;Upłaziańska Kopka;;"1457"
-"POINT (420414.292206651 5455075.72413363)";n2003568183;"2003568183";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Ratusz Litworowy;Q9304311;;;;;;;;Ratusz Litworowy;;"1670"
-"POINT (418388.165977761 5456557.03862615)";n2008611051;"2008611051";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Upłaziański Wierszyk;Q9366954;;;;;;;;Upłaziański Wierszyk;;"1203"
-"POINT (428442.61223642 5458120.66304531)";n2098613390;"2098613390";node;peak;;;;no;;;;;;;;;;;;Kopieniec Wielki;;;;;;;;;;;;;;;;;;;;pl:Wielki Kopieniec (Dolina Olczyska);Q9372947;;;"146254";;;;;Wielki Kopieniec;;"1328"
-"POINT (419208.250682975 5457817.41927563)";n2100603506;"2100603506";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Hruby Regiel;Q9294474;;;;;;;;Hruby Regiel;;"1339"
-"POINT (424675.154044457 5457666.91319633)";n2100603508;"2100603508";node;peak;;;;;;;;;;;;;;;;;;;;Opalony Wierzch;;;;;;;;;;;;;;;;pl:Krokiew (Tatry);Q11748265;;;"62050";;;;;Krokiew;;"1378"
-"POINT (421935.546398162 5458263.96660645)";n2100603509;"2100603509";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Samkowa Czuba;Q9333132;;;"120606";;;;;Samkowa Czuba;;"1189"
-"POINT (434295.987259265 5457590.25828258)";n2102060425;"2102060425";node;peak;;;;;;;;;;;;;;;;Goły Wierch Rusinowy;;;;;;;;;;;;;;;;;;;;pl:Goły Wierch Rusinowy;Q9275005;;;;;;;;Goły Wierch;;"1206"
-"POINT (431696.135288057 5457249.29207407)";n2102060445;"2102060445";node;peak;;;;;;;;;;;;;;;;Ostry Wierch Waksmundzki;;;;;;;;;;;;;;;;;;;;pl:Ostry Wierch Waksmundzki;Q11800796;;;"95577";;;;;Ostry Wierch;;"1475"
-"POINT (432189.281788805 5456622.85611102)";n2102060451;"2102060451";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Suchy Wierch Waksmundzki;Q9347856;;;;;;;;Suchy Wierch Waksmundzki;;"1485"
-"POINT (431240.813978871 5453515.27347537)";n2103272996;"2103272996";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Pośredni Wołoszyn;Q11826373;;;;;;;;Pośredni Wołoszyn;;"2117"
-"POINT (431750.213356499 5453817.7748098)";n2103272997;"2103272997";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Skrajny Wołoszyn;Q9338172;;;;;;;;Skrajny Wołoszyn;;"2090"
-"POINT (432482.852962006 5454439.85955964)";n2103272998;"2103272998";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Turnia nad Dziadem;Q9362824;;;;;;;;Turnia nad Dziadem;;"1901"
-"POINT (432711.25823665 5453723.57144085)";n2103272999;"2103272999";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Turnia nad Szczotami;Q9362834;;;;;;;;Turnia nad Szczotami;;"1741"
-"POINT (430615.839030779 5453677.52562031)";n2103273000;"2103273000";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Waksmundzki Wierch;Q9370074;;;;;;;;Waksmundzki Wierch;;"2189"
-"POINT (430807.588007335 5454055.15487137)";n2103273001;"2103273001";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielka Koszysta;Q9372804;;;;;;;;Wielka Koszysta;;"2193"
-"POINT (430833.247854644 5453273.29057294)";n2103273002;"2103273002";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielki Wołoszyn;Q9372982;;;;;;;;Wielki Wołoszyn;;"2155"
-"POINT (416548.746480604 5457664.35451654)";n2107808027;"2107808027";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Pośrednia Kopka;Q11826391;;;;;;;;Pośrednia Kopka;;"1305"
-"POINT (417141.609870537 5458558.56340984)";n2107808028;"2107808028";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Przednia Kopka;Q11828337;;;;;;;;Przednia Kopka;;"1113"
-"POINT (416500.771893069 5455612.7794379)";n2107808029;"2107808029";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Suchy Wierch (Stoły);Q9347849;;;;;;;;Suchy Wierch;;"1428"
-"POINT (416973.72175357 5456998.27401533)";n2107808030;"2107808030";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"208";pl:Zadnia Kopka;Q9385724;;;;;;;;Zadnia Kopka;;"1333"
-"POINT (415931.815010113 5456624.86630896)";n2107822733;"2107822733";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Diabliniec;Q11694078;;;;;;;;Diabliniec;;"1241"
-"POINT (415240.130376004 5456607.6800313)";n2107822736;"2107822736";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wierch Spalenisko;Q9373218;;;;;;;;Wierch Spalenisko;;"1324"
-"POINT (415078.940715972 5456119.05823113)";n2107834137;"2107834137";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mały Opalony Wierch;Q11772570;;;;;;;;Mały Opalony Wierch;;"1448"
-"POINT (414457.91400229 5456334.57407704)";n2107834138;"2107834138";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Spalona Czuba;Q9340018;;;;;;;;Spalona Czuba;;"1257"
-"POINT (415334.874098757 5455932.89144247)";n2107834139;"2107834139";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielki Opalony Wierch;Q9372959;;;;;;;;Wielki Opalony Wierch;;"1485"
-"POINT (409909.616858597 5451266.95200127)";n2302916813;"2302916813";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"154";sk:Volovec (vrch v Západných Tatrách);Q2783579;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Volovec;Wołowiec;Volovec;;Volovec / Wołowiec;"2063.08";"2064"
-"POINT (413131.202092861 5457486.88458287)";n2359130653;"2359130653";node;peak;;;;;;;;Kryta;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kryta Czuba;Q11748835;;;;;;;;Kryta Czuba;;"1246"
-"POINT (418348.733429812 5458191.48581372)";n2359130654;"2359130654";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mały Regiel (Tatry Zachodnie);Q11772581;;;;;;;;Mały Regiel;;"1141"
-"POINT (425218.618654918 5460412.23765359)";n2478773315;"2478773315";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q571511;;;;;;;;Antałówka;;"937"
-"POINT (420495.216262649 5461581.47276967)";n2479896772;"2479896772";node;peak;;;;;;;;;;;;;;;;Butorowski Wierch;;;;;;;;;;;;;;;;;;;;pl:Butorowy Wierch;Q9182442;;;;;;;;Butorowy Wierch;;"1160"
-"POINT (422652.808783454 5462217.1450649)";n2479896773;"2479896773";node;peak;;;Губалувка;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Gubałówka;Q913060;;;;;;;;Gubałówka;;"1120"
-"POINT (418902.043692259 5457212.05184604)";n2569948266;"2569948266";node;peak;;;;;;;;;;;;;;;;Mała Zawiesista Turnia;;;;;;;;;;;;;;;;;;;;pl:Niżnia Zawiesista Turnia;Q17619427;;;;;;;;Niżnia Zawiesista Turnia;;"1180"
-"POINT (418352.440062927 5457369.70124961)";n2569948267;"2569948267";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kończysta Turnia;Q11744819;;;;;;;;Kończysta Turnia;;"1248"
-"POINT (418946.22666407 5457304.14539329)";n2569948268;"2569948268";node;peak;;;;;;;Zadnia Kończysta;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zawiesista Turnia;Q9387535;;;;;;;;Zawiesista Turnia;;"1296"
-"POINT (418685.901000874 5457530.28153555)";n2569948269;"2569948269";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Czerwony Gronik;;"1294"
-"POINT (426310.539730549 5457365.46716434)";n2604672434;"2604672434";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Boczań;Q11688387;;;"7455";;;;;Boczań;;"1224"
-"POINT (434617.30816416 5449344.82711334)";n2610887841;"2610887841";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;Veľký Mlynár;;;;;;;;;;;;;;;;;;;"155";sk:Mlynár (vrch);Q11788152;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Wielki Młynarz;Nagy-Molnár;Grosser Müller;Mlynár;"2171.11";"2170"
-"POINT (436372.491606398 5451499.38588797)";n2621952744;"2621952744";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;pl:Spismichałowa Czuba;Q9340332;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Spismichałowa Czuba;;;Zámky;"2010.78";"2010"
-"POINT (421949.680565504 5449134.95353387)";n2623551924;"2623551924";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;Brdárova zvonica;;;;;;;;;;;;;;;;;;;;pl:Brdarowa Dzwonnica;Q9179135;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Brdarowa Dzwonnica;;;Brdárová zvonica;"1721.51";"1712"
-"POINT (421075.695584287 5451926.08446918)";n2623551979;"2623551979";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;;Q31568427;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Liptovská Tomanová;"1838.82";"1839"
-"POINT (424694.664272714 5448927.61833898)";n2623552150;"2623552150";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;Krajný Holý vrch;;;;;;;;;;;;;;;;;;;;pl:Skrajny Goły Wierch Liptowski;Q9338164;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Skrajny Goły Wierch Liptowski;Elülső-Kopasz-hegy;;Predný Holý vrch;"1981.22";"1984"
-"POINT (436674.146131324 5457126.6589709)";n2630293067;"2630293067";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Gombošov vrch;"1194.51";"1194"
-"POINT (420191.313688026 5449649.79634619)";n2630293078;"2630293078";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;pl:Hlinik;Q11709967;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Hlinik;;;Hlina;"1507.92";"1505"
-"POINT (437930.797381452 5455051.40180827)";n2630293254;"2630293254";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;pl:Baboś;Q9163805;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Baboś;;;Malý Baboš;"1471.94";"1471"
-"POINT (414778.926163431 5447966.35954443)";n2630293329;"2630293329";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;sk:Nižná Bystrá;Q9385722;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Nižná Bystrá;"2162.14";"2162"
-"POINT (420285.367840853 5453020.75038785)";n2630293474;"2630293474";node;peak;;;;;;;;;;;Záväzné názvoslovie vrchov;;;;skgeodesy.sk;;;;;;;;;;;;;;;;;;;;;pl:Głazista Turnia;Q9284120;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"218442";Stoly;Głazista Turnia;;;Głazista Turnia / Stoly;"1948.61";"1949"
-"POINT (411434.052975138 5458494.01574659)";n2630293524;"2630293524";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Turek;"1192.24";"1186"
-"POINT (422959.509172452 5449880.0239643)";n2630293554;"2630293554";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielka Brdarowa Grapa;Q9372769;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Wielka Brdarowa Grapa;;;Veľká Brdárova grapa;"1859.64";"1859"
-"POINT (438169.605847697 5454237.56254604)";n2630293569;"2630293569";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;"163";;Q9347851;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Veľký Baboš;"1522.98";"1523"
-"POINT (412277.235775151 5448853.54086829)";n2630293595;"2630293595";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;sk:Vyšná Magura;Q9380660;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Vyšná Magura;"2093.87";"2095"
-"POINT (436079.529625735 5453698.82218215)";n2630293600;"2630293600";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Zadná kopa;"1669.79";"1674"
-"POINT (430122.819462636 5453154.19472863)";n2639389007;"2639389007";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nagy-Bükkvölgyi-torony;;;;;;;pl:Wielka Buczynowa Turnia;Q9372776;;;;Veľká Bučinová;Wielka Buczynowa Turnia;Nagy-Buczyna-torony;Großer Buchentalturm;Wielka Buczynowa Turnia;;"2184"
-"POINT (430328.619606331 5453178.77247488)";n2639389008;"2639389008";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mała Buczynowa Turnia;Q11772034;;;;Malá Bučinová;Mała Buczynowa Turnia;Kis-Buczyna-torony;;Mała Buczynowa Turnia;;"2172"
-"POINT (428054.454418332 5452306.02206023)";n2721684697;"2721684697";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Gąsienicowa Turnia;Q11703156;;;"32074";;;Gąsienica-torony;;Gąsienicowa Turnia;;"2280"
-"POINT (428311.253485413 5452743.28241756)";n2721684698;"2721684698";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mylna Kopa;Q24947528;;;"225130";Mylná kopa;Mylna Kopa;Útvesztő-púp;;Mylna Kopa;;"2159"
-"POINT (428318.545364081 5452789.32972332)";n2721684699;"2721684699";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zadni Kościelec;Q9385701;;;"155434";;Zadni Kościelec;Hátsó-Koscielec;;Zadni Kościelec;;"2162"
-"POINT (427810.068190602 5452390.00665474)";n2721684700;"2721684700";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;Taternicka Świnica;;;;;;;;;;;;;Svinica;Świnica;Svinica;Seealmspitze;Svinica / Świnica;;"2291"
-"POINT (419419.872279409 5453567.92489576)";n3075294960;"3075294960";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kazalnica;;"1767"
-"POINT (420210.947976303 5464105.71077236)";n3306578427;"3306578427";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Gruszków Wierch;;"1030.5"
-"POINT (420030.462317612 5465208.37255711)";n3306578429;"3306578429";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szeligowski Wierch;;"970.0"
-"POINT (427857.525556428 5452320.54967411)";n3343362920;"3343362920";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kocahegy;"Sauberg;Schweinkopf";;;;;"355";pl:Świnica;Q2741323;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"138435";Svinica;Świnica;Svinica;Seealmspitze;Svinica / Świnica;"2301.56";"2302"
-"POINT (412334.895121941 5461064.39514922)";n3440707377;"3440707377";node;peak;;;;;;;;;;;;;;;;Magura Oravská;;;;;;;;;;;;;;;;;;;"277";sk:Magura (vrch v Skorušinských vrchoch);Q11766271;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Magura Witowska;"1231.48";"1231"
-"POINT (428697.038718905 5452073.50683329)";n3494312974;"3494312974";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"225154";;;;;Turnia nad Schodkami;;
-"POINT (428658.651417351 5451829.08384947)";n3494317589;"3494317589";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kołowa Czuba;Q11744759;;;"56514";;;;;Kołowa Czuba;;"2105"
-"POINT (428315.854213641 5452683.81586572)";n3494334483;"3494334483";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"224907";;;;;Mylna Strażnica;;
-"POINT (428297.418372465 5452369.07703679)";n3494334728;"3494334728";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zawratowa Turnia;Q9387610;;;"160165";Závratová veža;Zawratowa Turnia;Zawrat-torony;Unterer Seealmturm;Zawratowa Turnia;;"2247"
-"POINT (431111.482448253 5454984.68772817)";n3499289916;"3499289916";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mała Koszysta;Q11772065;;;;;;;;Mała Koszysta;;"2014"
-"POINT (429636.702075472 5452492.06993207)";n3503766320;"3503766320";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;Najwyższa turnia Czarnych Ścian;;;;;;;;;;;;;;;;;;;;"2242"
-"POINT (429597.824694009 5452730.72575067)";n3503766329;"3503766329";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zadnia Sieczkowa Turnia;Q24947638;;;;;;;;Zadnia Sieczkowa Turnia;;
-"POINT (429794.976932903 5453175.21935813)";n3503795970;"3503795970";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Orla Baszta;Q11799233;;;;Orlia bašta;Orla Baszta;Sas-orom;Adlerbastei;Orla Baszta;;"2177"
-"POINT (430777.694530753 5453295.24706222)";n3503810011;"3503810011";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mały Wołoszyn;Q11772604;;;;;;Kis-Woloszyn;;Mały Wołoszyn;;"2145"
-"POINT (427274.010938202 5452646.50356802)";n3504631174;"3504631174";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"79";pl:Pośrednia Turnia;Q11826408;;;"109115";Prostredná kopa;Pośrednia Turnia;Középső-torony;Mittlerer Turm;Prostredná kopa / Pośrednia Turnia;;"2128"
-"POINT (430951.042024578 5449070.34870612)";n3508343300;"3508343300";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"82031";;;;;Mnichowa Kopa;;"2090"
-"POINT (430675.075042616 5448975.55713874)";n3508355562;"3508355562";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Smrečinská veža;;;;;pl:Ciemnosmreczyńska Turnia;Q9192478;;;"17472";Temnosmrečinská veža;Ciemnosmreczyńska Turnia;Szmrecsini-torony;Smrečiner Turm;Temnosmrečinská veža / Ciemnosmreczyńska Turnia;;"2142"
-"POINT (433487.176296085 5448484.40988591)";n3508596269;"3508596269";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Spadowa Kopa;Q9340000;;;;Spádová kopa;Spadowa Kopa;;;Spadowa Kopa;;"2252"
-"POINT (433390.33271985 5448887.44959007)";n3508601596;"3508601596";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Żabi Mnich;Q392972;;;;Žabí Mních;Żabi Mnich;Békás-Barát;Froschmönch;Żabi Mnich;;"2146"
-"POINT (433215.095905823 5448324.41383788)";n3508632047;"3508632047";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Skrajna Tomkowa Igła;Q86726295;;;"218404";Predná Tomkova ihla;;Elülsõ-Tomko-tû;Unteres Tomkow-Türmchen;Skrajna Tomkowa Igła;;"2109"
-"POINT (432899.655205367 5447716.74561372)";n3508683869;"3508683869";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;sk:Žabí kôň;Q3594409;;;"162819";Žabí kôň;Żabi Koń;Simon-torony;;Żabi Koń;;"2291"
-"POINT (432741.260498868 5447720.5642997)";n3508689204;"3508689204";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Żabia Turnia Mięguszowiecka;Q9397111;;;;Žabia veža;Żabia Turnia Mięguszowiecka;Békás-tavi-torony;;Żabia Turnia Mięguszowiecka / Žabia veža;;"2336"
-"POINT (433012.328289458 5448085.90519764)";n3508693152;"3508693152";node;peak;;;;;;;;;;;;;;;;;;;;;;;https://www.igig.up.wroc.pl/?menu=Aktualnosci&id=538;;;;;;;;;;;;;pl:Bula pod Rysami;Q9181931;;;"13567";;;;;Bula pod Rysami;;"2055"
-"POINT (432210.540060887 5448460.87011062)";n3508700214;"3508700214";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kazalnica;;;pl:Kazalnica Mięguszowiecka;Q11737611;;;"51543";Kazalnica Mengusovská;Kazalnica Mięguszowiecka;Vadorzó-kilátó;;Kazalnica Mięguszowiecka;;"2159"
-"POINT (432519.995060623 5447814.12494132)";n3509905952;"3509905952";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Rohatá vežička;Rogata Turniczka;;;Rogata Turniczka / Rohatá vežička;"2373.41";"2365"
-"POINT (432153.753581442 5447988.12670634)";n3509932447;"3509932447";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;Fischer-torony;Fischerturm;;;;;;pl:Hińczowa Turnia;Q9293124;;;;Hincova veža;Hińczowa Turnia;Hincó-tavi-torony;Hinzenseeturm;Hincova veža / Hińczowa Turnia;;"2372"
-"POINT (432159.711088964 5447969.37462723)";n3509945912;"3509945912";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Hincova vežička;Hińczowa Turniczka;Hincó-tavi-tornyocska;Hinzenseetürmchen;Hińczowa Turniczka / Hincova vežička;;"2360"
-"POINT (431918.655430824 5448281.53443923)";n3509947614;"3509947614";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Bäuerlein;;;;;;pl:Chłopek (Tatry);Q9192151;;;"15486";Chlapík;Chłopek;Parasztocska;Chlopek;Chłopek;;"2340"
-"POINT (429081.878772861 5450193.74350442)";n3538967097;"3538967097";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Malá Kotolnica;Mała Kotelnica;;;Mała Kotelnica / Malá Kotolnica;;"1974"
-"POINT (428677.950672102 5450330.85341416)";n3538976943;"3538976943";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Veľká Kotolnica;Wielka Kotelnica;;;Wielka Kotelnica / Veľká Kotolnica;;"1987"
-"POINT (428566.194810684 5450436.58120536)";n3538992122;"3538992122";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Hladká Kotolnica;Gładka Kotelnica;;;Gładka Kotelnica / Hladká Kotolnica;;"1990"
-"POINT (433434.018970601 5449924.37222481)";n3544033690;"3544033690";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Żabia Czuba;Q9397105;;;;Žabia kopa;Żabia Czuba;Szélső-Békás-csúcs;Froschkopf;Żabia Czuba;;"2079"
-"POINT (433492.179673164 5450883.61596741)";n3544034418;"3544034418";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Hét-Gránátos;;Granat;;"1751"
-"POINT (433281.188026367 5449649.92898693)";n3544035356;"3544035356";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nižný Žabí štít;;;;;pl:Żabi Szczyt Niżni;Q3342333;;;;Malý Žabí štít;Niżni Żabi Szczyt;Kis-Békás-csúcs;Kleine Froschspitze;Niżni Żabi Szczyt;;"2098"
-"POINT (433285.168209512 5449522.39810994)";n3544051107;"3544051107";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Marusarzowa Turnia;Q11770837;;;;Ondrejova veža;Marusarzowa Turnia;;;Marusarzowa Turnia;;"2075"
-"POINT (433305.575719862 5449383.63919082)";n3544056626;"3544056626";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Owcze Turniczki;Q11801284;;;;Ovčie vežičky;Owcze Turniczki;;;Owcze Turniczki;;"2040"
-"POINT (433091.801571569 5449585.30249507)";n3544067861;"3544067861";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Apostoły;;"1953"
-"POINT (433291.21022237 5448797.17722514)";n3544132281;"3544132281";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Żabia Lalka;Q9397107;;;;Žabia bábika;Żabia Lalka;;;Żabia Lalka;;"2095"
-"POINT (425855.659533675 5453723.65728389)";n3552158247;"3552158247";node;peak;MA00235;;;no;;;;;;;;;;;;;;;;;;;;"Kasprowa Czuba;Stawiańska Czuba;Goryczkowiańska Czuba";;;;;;;;;;;"37";pl:Kasprowy Wierch;Q1735189;;;"51250";Kasprov vrch;Kasprowy Wierch;Gáspár-csúcs;Kasparskogel;Kasprov vrch / Kasprowy Wierch;;"1987"
-"POINT (425119.3246359 5453528.62350995)";n3558286971;"3558286971";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1836"
-"POINT (423373.204583544 5453913.0589096)";n3558342128;"3558342128";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1815"
-"POINT (428025.696286141 5453487.28373443)";n3560285056;"3560285056";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mały Kościelec;Q11772558;;;"77094";;;;;Mały Kościelec;;"1866"
-"POINT (427931.638545805 5453788.21653039)";n3560292150;"3560292150";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1814"
-"POINT (422274.508009401 5454299.99550336)";n3560695684;"3560695684";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;Kondracka Kopa;;;;;;;;pl:Kopa Kondracka;Q11743304;;;"56935";Kondratova kopa;Kopa Kondracka;Konrád-púp;;Kondratova kopa / Kopa Kondracka;;"2005"
-"POINT (418703.88354179 5450752.72769844)";n3560769900;"3560769900";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Smreczyński Wierch;Q9338770;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;"125538";Smrečiny;Smreczyński Wierch;;;Smreczyński Wierch / Smrečiny;"2069.71";"2068"
-"POINT (419660.025763771 5451609.37077052)";n3560808077;"3560808077";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Tomanowa Kopa;Q11837029;;;"225050";;Tomanowa Kopa;;;Tomanowa Kopa;;"1899"
-"POINT (412645.294019593 5450629.21767318)";n3560918391;"3560918391";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kopa Prawdy;Q24947095;;;;;Kopa Prawdy;;;Kopa Prawdy;;"2027"
-"POINT (412220.710931478 5450106.96909292)";n3560920780;"3560920780";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;sk:Hrubý vrch (Západné Tatry);Q11134872;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Hrubý vrch;Jarząbczy Wierch;Vastag-hegy;;Jarząbczy Wierch / Hrubý vrch;"2136.93";"2137"
-"POINT (410390.443073259 5453831.88055612)";n3560955247;"3560955247";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1632"
-"POINT (411988.400026955 5456582.93258497)";n3560988994;"3560988994";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Parzątczak;Q11813159;;;;;;;;Parzątczak;;"1486"
-"POINT (412251.302587064 5458023.2676636)";n3560989957;"3560989957";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Zamczysko;"1324.06";
-"POINT (411870.675609765 5457245.5495553)";n3560991693;"3560991693";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Furkaska;Q9264716;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;Veľká Furkaska;Furkaska;;;Furkaska / Veľká Furkaska;"1490.61";"1491"
-"POINT (414546.619718429 5458855.11516009)";n3568541637;"3568541637";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Siwiańskie Turnie;Q9337347;;;;;;;;Siwiańskie Turnie;;"1065"
-"POINT (415642.49369051 5458355.65744753)";n3568548393;"3568548393";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Cisowa Turnia;Q9192827;;;;;;;;Cisowa Turnia;;"1112"
-"POINT (412844.876271447 5458217.88263122)";n3568554193;"3568554193";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Koryciańska Czuba;Q11743902;;;;;;;;Koryciańska Czuba;;"1161"
-"POINT (414566.839535791 5457212.10086972)";n3568646693;"3568646693";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Klinowa Czuba;Q11740143;;;;;;;;Klinowa Czuba;;"1276"
-"POINT (414061.657869305 5456623.24755341)";n3568740193;"3568740193";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jamska Czuba;Q11716855;;;;;;;;Jamska Czuba;;"1108"
-"POINT (413024.219029978 5456393.40946465)";n3568750126;"3568750126";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaworzyński Przysłop;Q11723494;;;;;;;;Jaworzyński Przysłop;;"1269"
-"POINT (415474.33499179 5455716.90138316)";n3569141394;"3569141394";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wierch Świerkule;;
-"POINT (415069.907193529 5452802.20156375)";n3571391593;"3571391593";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Suchy Wierch Ornaczański;Q9347854;;;;;;;;Suchy Wierch Ornaczański;;"1832"
-"POINT (415093.369762559 5457412.8146074)";n3571653875;"3571653875";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zadnia Rosocha;Q9385729;;;;;;;;Zadnia Rosocha;;"1271"
-"POINT (415333.270261574 5457644.73550861)";n3571689193;"3571689193";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Skrajna Rosocha;Q9338151;;;;;;;;Skrajna Rosocha;;"1262"
-"POINT (416884.465089258 5457069.71749041)";n3571740754;"3571740754";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Świńska Turnia;Q9396919;;;;;;;;Świńska Turnia;;"1333"
-"POINT (417742.214860815 5454513.16950467)";n3592566151;"3592566151";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Ratusz (Tatry);Q9304304;;;;;;;;Ratusz;;"1296"
-"POINT (417891.385821155 5454638.80189096)";n3592615590;"3592615590";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Saturn (Tatry);Q9334013;;;;;;;;Saturn;;"1391"
-"POINT (420168.708238071 5455403.72263352)";n3598422900;"3598422900";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kobylarz;Q11740561;;;;;;;;Kobylarz;;"1430"
-"POINT (419502.698720416 5453195.84922259)";n3600157703;"3600157703";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kościołki;;
-"POINT (419601.057324063 5453207.47749203)";n3600160026;"3600160026";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kościołki;;
-"POINT (421993.88971512 5455374.26199926)";n3600481596;"3600481596";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mnich Małołącki;Q11784241;;;;;;;;Mnich Małołącki;;
-"POINT (421411.683951488 5455201.1155429)";n3600532984;"3600532984";node;peak;;;;;;;;;;;;;;;;Wielka Turnia Małołącka;;;;;;;;;;;;;;;;;;;;;;;;"146127";;;;;Wielka Turnia;;"1847"
-"POINT (420633.419698134 5455351.0917365)";n3600809099;"3600809099";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kobylarzowa Turnia;Q11740563;;;;;;;;Kobylarzowa Turnia;;
-"POINT (420712.281913575 5455556.47976355)";n3600809685;"3600809685";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zagonna Turnia;;
-"POINT (427585.970951825 5456375.84201205)";n3633401218;"3633401218";node;peak;;;;;;;;Kopa Królowa Wielka;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielka Kopa Królowa;Q9372803;;;"57491";;;;;Wielka Królowa Kopa;;"1531"
-"POINT (427424.496396982 5456016.478152)";n3633405165;"3633405165";node;peak;;;;;;;;Kopa Królowa Mała;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mała Kopa Królowa;Q11772062;;;"57490";;;;;Mała Królowa Kopa;;"1577"
-"POINT (433595.206550946 5462302.2658354)";n3645072939;"3645072939";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wierch Zgorzelisko;Q9373220;;;;;;;;Wierch Zgorzelisko;;"1105"
-"POINT (421650.929900762 5457545.18954198)";n3751210922;"3751210922";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kiernia;Q17619421;;;"53066";;;;;Kiernia;;"1317"
-"POINT (435730.322322103 5454277.94736921)";n3982162347;"3982162347";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;;Q31555504;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Holica;"1628.74";"1628"
-"POINT (435091.882529746 5455518.27210458)";n3982162461;"3982162461";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Tisovka;"1381.48";"1372"
-"POINT (410176.528348756 5458640.52152431)";n4015271212;"4015271212";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Ježov vrch;"1085.70";"1086"
-"POINT (410387.344954235 5462342.63158606)";n4015271279;"4015271279";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;sk:Krúpová (vrch v Skorušinských vrchoch);Q111449780;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Krúpová;"1064.68";"1065"
-"POINT (437868.742155521 5458520.51174871)";n4135232499;"4135232499";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11690186;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Chowańców Wierch;;;Chovancov vrch;"1038.90";"1038"
-"POINT (433542.441013018 5447818.89235279)";n4366169405;"4366169405";node;peak;;;;;Рысы;national;;;;;;;;;;;;;;;;;;;;;Najwyższy szczyt w Polsce;;;;;;;;;pl:Rysy;Q672936;;;"119408";Rysy;Rysy;Tengerszem-csúcs;Meeraugspitze;Rysy;;"2499"
-"POINT (412832.700200553 5451223.42694479)";n4549628386;"4549628386";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Jarząbczy Kopieniec;;"1702"
-"POINT (413089.180717941 5452295.81869763)";n4549629889;"4549629889";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1772"
-"POINT (412951.654227165 5452429.18725089)";n4549629890;"4549629890";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1765"
-"POINT (435478.899167196 5457332.8402823)";n4784525459;"4784525459";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;Najdalej na wschód wysunięte wzniesienie polskich Tatr;;;;;;;;;pl:Łysa Skałka;Q9394915;;;;;;;;Łysa Skałka;;"1119"
-"POINT (436269.853953057 5452171.89132838)";n4861787857;"4861787857";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;Horvát-kúp;;Horvátov vrch;"1902.04";"1902"
-"POINT (427520.638147294 5447879.63676452)";n5189148058;"5189148058";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q9265869;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;Nyugati-Hrubó-csúcs;;Hrubá kopa;;"2221"
-"POINT (428881.729495353 5448988.7950315)";n5189148067;"5189148067";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Posledný chrbát;;"1926"
-"POINT (422750.36115729 5453148.74325786)";n5209919435;"5209919435";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaworowe Skałki;Q11723431;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Jaworowe Skałki;;;Štrky;"1663.02";"1657"
-"POINT (422820.604644705 5453626.70400064)";n5260561411;"5260561411";node;peak;;;;;;;;;;;;;;;;Javorové bralo;;;;;;;;;;;;;;;;;;;;pl:Jaworowa Kopa (Tatry);Q11723428;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Jaworowa Kopa;;;Javorová kopa;"1793.94";"1791"
-"POINT (421072.1493196 5453301.23751232)";n5260733817;"5260733817";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Rozpadła Kopa;Q9323257;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Rozpadła Kopa;;;Rozpadlá kopa;"1986.93";"1970"
-"POINT (424273.789794587 5448154.88180288)";n5266496787;"5266496787";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;sk:Krížna (vrch vo Vysokých Tatrách);Q11750041;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Krzyżne Liptowskie;;;Krížna;"2039.16";"2039"
-"POINT (424881.278550793 5451506.39457247)";n5266496805;"5266496805";node;peak;;;;;;;;;;;;;;;;Licierova kopa;;;;;;;;;;;;;;;;;;;;;Q9324325;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Rycerowa Kopa;;;Magura;;"1901"
-"POINT (420598.3599665 5451061.10534209)";n5278904260;"5278904260";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kniaziowa Kopa;Q11740421;;;;;Kniaziowa Kopa;;;Kňazová;;"1804"
-"POINT (420122.282319264 5449288.00722664)";n5320319930;"5320319930";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Grešová;"1500.89";"1494"
-"POINT (410218.573898888 5449728.81083694)";n5378764554;"5378764554";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Czarna Kopa;;;Kôpka;"1661.69";"1670"
-"POINT (437931.822672046 5452363.96352048)";n5419990483;"5419990483";node;peak;;ZBGIS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Košiar;"1905.21";
-"POINT (436450.990754276 5455922.41674259)";n5419990485;"5419990485";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11735608;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Skalka;"1437.81";
-"POINT (410025.321354709 5456573.9639562)";n5427567970;"5427567970";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Hrubý vrch;"1329.29";"1329"
-"POINT (409952.886309472 5464492.07819457)";n5428352806;"5428352806";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q31565145;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Bučník;"951.78";"958"
-"POINT (434621.337109452 5448019.18337611)";n5568304734;"5568304734";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Skrajna Pusta Turnia;;;Predná Pustá veža;;
-"POINT (435052.923210036 5447947.03174863)";n5568304735;"5568304735";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Gankowa Strażnica;;;Pustá stráž;;"1875"
-"POINT (431013.377714991 5448612.39071924)";n5568416480;"5568416480";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q9196975;;;;;;Csubrina-torony;;Čubrinka;;"2310"
-"POINT (437417.859820989 5450108.22775551)";n5657427864;"5657427864";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Żabi Wierch Jaworowy;;;Žabí Javorový vrch;"2173.89";
-"POINT (438054.039676002 5455529.98762234)";n5657427865;"5657427865";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Holý vrch;"1390.10";
-"POINT (422544.255353502 5449441.44472276)";n5657428016;"5657428016";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11772032;;;;;;;;Malá Brdárova grapa;;
-"POINT (412976.713203282 5464864.84384189)";n5657431066;"5657431066";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Mašňáková;"972.69";"972"
-"POINT (436472.492211504 5448934.97456674)";n5657431821;"5657431821";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Turnia nad Kolebą;;;Veža nad kolibou;"1876.63";
-"POINT (435915.313018997 5451594.6744873)";n5657433119;"5657433119";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Nižné Zámky;"1873.36";
-"POINT (424578.027124338 5453331.02383219)";n5657434836;"5657434836";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Vráta;"1687.66";
-"POINT (435161.259507243 5449284.80369989)";n5657435364;"5657435364";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11790291;;;;;Nawiesista Turnia;;;Bielovodská veža;;
-"POINT (424966.905661953 5449509.75195361)";n5657435365;"5657435365";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;Hátsó-Kopasz-hegy;;Zadný Holý vrch;"1983.43";
-"POINT (422673.217362668 5449519.40120581)";n5657435456;"5657435456";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Krajný Holý vrch;"1822.42";
-"POINT (425450.324154135 5461939.59306932)";n5692945863;"5692945863";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Bachledzki Wierch;;"902"
-"POINT (428314.968232211 5452710.31190005)";n5909943460;"5909943460";node;peak;;;;;;;;;;;;;;;;"Szafa;Uszata Turnia";;;;;;;;;;;;;;;;;;;;pl:Mylna Turnia;Q24947516;;;"225132";Mylná veža;;Útvesztő-torony;Irr Turm;Mylna Turnia;;
-"POINT (420105.008273918 5456378.58707368)";n5983946013;"5983946013";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1369.6"
-"POINT (420468.308892602 5455866.64046698)";n5983946017;"5983946017";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1503"
-"POINT (419061.571792719 5461776.30215379)";n6055511601;"6055511601";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"243";pl:Palenica Kościeliska;Q16585443;;;;;;;;Palenica Kościeliska;;"1182.7"
-"POINT (435781.188476659 5461735.60236068)";n6127213348;"6127213348";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Cyrla nad Białką;;"1155"
-"POINT (436296.854771321 5463053.78062935)";n6127230422;"6127230422";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Brzegowski Wierch;;"979"
-"POINT (427273.459842208 5455573.84629131)";n6178007809;"6178007809";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kopa Magury;Q11743305;;;"57492";;;;;Kopa Magury;;"1704"
-"POINT (436641.621870144 5448875.34798098)";n6422709537;"6422709537";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q31568344;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Turnia nad Polaną;;;veža nad Poľanou;"1899.23";"1804"
-"POINT (429378.935630213 5465355.648427)";n6681331138;"6681331138";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Galicowa Grapa;;"980"
-"POINT (431759.815748478 5464651.7846884)";n6681331139;"6681331139";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Skalnite;;"933"
-"POINT (431349.366938804 5464390.55587152)";n6681333708;"6681333708";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nosol;;"947"
-"POINT (431953.482133909 5463766.8375294)";n6681347039;"6681347039";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Upłaz;;"1004"
-"POINT (435086.312483158 5463882.54445251)";n6681353438;"6681353438";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wysoki Wierch;;"1015.8"
-"POINT (433361.28927938 5448869.71093267)";n6719281507;"6719281507";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Żabi Kapucyn;;"2138"
-"POINT (430500.742218333 5449159.8378175)";n6720011784;"6720011784";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kopa nad Wrotami;Q11743312;;;"57493";;;;;Kopa nad Wrotami;;"2075"
-"POINT (423221.214205483 5459932.03343243)";n7192519750;"7192519750";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Walczacki Wierch;;"868"
-"POINT (422548.455705496 5460069.59691332)";n7192519751;"7192519751";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Gąsieniców Wierch;;"868"
-"POINT (422330.406631688 5459699.07517205)";n7192519752;"7192519752";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Gronik;;"876"
-"POINT (415289.379174561 5448649.47692623)";n7230434663;"7230434663";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;sk:Grúň (vrch v Západných Tatrách);Q11772036;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Grúň;"2129.18";"2108"
-"POINT (420292.739716024 5451668.62020232)";n7838897195;"7838897195";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1950"
-"POINT (436889.33497863 5465029.95599592)";n7848572602;"7848572602";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Koziniec;;"902"
-"POINT (436755.003110323 5463484.31552329)";n7848626692;"7848626692";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Za Wierch;;"967.7"
-"POINT (436660.956883383 5464496.55545516)";n7848629185;"7848629185";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zagóra;;"930.7"
-"POINT (435829.870983616 5463382.92136589)";n7848629186;"7848629186";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Brzegowska Góra;;"994.5"
-"POINT (435432.558642136 5462862.10923764)";n7848647752;"7848647752";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Wołowiec;;"1044.3"
-"POINT (435698.90890736 5464227.61239414)";n7848661404;"7848661404";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Pasieczny Wierch;;"930.6"
-"POINT (427625.589162243 5458635.77842275)";n7917548639;"7917548639";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mały Kopieniec (Dolina Olczyska);Q11772552;;;"77092";;;;;Mały Kopieniec;;"1170"
-"POINT (426743.795396329 5455631.76109887)";n8499322250;"8499322250";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaworzyńska Czuba;Q11723491;;;;;;;;Jaworzyńska Czuba;;"1625"
-"POINT (426815.626184527 5457324.92300729)";n8518741430;"8518741430";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wysokie (Dolina Olczyska);Q9380251;;;"153664";;;;;Wysokie;;"1287"
-"POINT (424608.408361344 5457327.10133013)";n8518741431;"8518741431";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mała Krokiew (Tatry);Q11772068;;;"76385";;;;;Mała Krokiew;;"1365"
-"POINT (430476.120421757 5451601.36200383)";n8757470155;"8757470155";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wyżnia Kopa;Q16617232;;;"154046";;;;;Wyżnia Kopa;;"1725"
-"POINT (430887.454088773 5451738.43758456)";n8757470156;"8757470156";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Niżnia Kopa;Q16582481;;;"87689";;;;;Niżnia Kopa;;"1711"
-"POINT (431458.073854494 5451711.63076652)";n8757470163;"8757470163";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Świstowa Kopa;Q16621791;;;"225162";;;;;Świstowa Kopa;;"1875"
-"POINT (431364.240128361 5451947.5647416)";n8757470164;"8757470164";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Świstowa Czuba;Q9396489;;;;;;;;Świstowa Czuba;;"1763"
-"POINT (433801.438406155 5453258.49690167)";n8757489712;"8757489712";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Roztocka Czuba;Q9323339;;;;;;;;Roztocka Czuba;;"1425"
-"POINT (418863.050993744 5457445.78415632)";n8805220357;"8805220357";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zadnia Kończysta;;
-"POINT (418906.048490353 5457206.28868872)";n8805220358;"8805220358";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Czerwony Filar;;
-"POINT (421055.162991664 5458536.30917691)";n8806223755;"8806223755";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skały;;;;;;;;;;;;;;;;;;Jasiowe Turnie;;"1050"
-"POINT (420213.987836564 5458720.00688729)";n8806223756;"8806223756";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;szczyt;;;;;;;;;;;;;;;;;;Kierpcówka;;"980"
-"POINT (420425.406737095 5457557.31215594)";n8806223759;"8806223759";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skały;;;;;;;;;;;;;;;;;;Kohut;;"1014"
-"POINT (420808.34589455 5457838.35678537)";n8806223760;"8806223760";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Pośredni Wierszyk (Łysanki);Q11826372;;;"109101";;;;;Pośredni Wierszyk;;"1262"
-"POINT (419917.96604781 5457675.38957611)";n8806223762;"8806223762";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Rapasiowa Turnia;;"1075"
-"POINT (418760.447703356 5458578.69549618)";n8806223764;"8806223764";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Nędzowski Dział;Q11794316;;;;;;;;Nędzowski Dział;;"940"
-"POINT (417544.860976151 5456135.71854565)";n8806223790;"8806223790";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Okręt;;"1052"
-"POINT (417953.363525103 5455361.57882755)";n8807314830;"8807314830";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Dziurawa Ściana;;
-"POINT (418054.760874935 5455303.82766729)";n8807314831;"8807314831";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Czarny Zwornik;;
-"POINT (417751.404005222 5455266.07715408)";n8807314834;"8807314834";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Czarna Turniczka;;
-"POINT (417644.024112173 5455340.31312687)";n8807314837;"8807314837";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Czarna Turnia;;
-"POINT (417674.714979849 5455662.47680042)";n8807314842;"8807314842";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skała;;;;;;;;;;;;;;;;;;Organy;;
-"POINT (417435.582544372 5455712.85963216)";n8807314843;"8807314843";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skała;;;;;;;;;;;;;;;;;;Głucha Skała;;
-"POINT (417837.599839186 5455465.26834604)";n8807314860;"8807314860";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Biała Turnia;;
-"POINT (417751.22608795 5455555.23374607)";n8807314869;"8807314869";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Rękawica;;
-"POINT (417802.040314939 5455575.00060992)";n8807314872;"8807314872";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Żółta Baszta;;
-"POINT (417653.41571633 5455597.75937836)";n8807314874;"8807314874";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kciuk;;
-"POINT (416891.932320319 5458743.53106193)";n8809394994;"8809394994";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skała;;;;;;;;;;;;;;;;;;Skałki w Jarońcu;;"1117"
-"POINT (416550.385294067 5458754.31942704)";n8809394996;"8809394996";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skała;;;;;;;;;;;;;;;;;;Między Ściany;;"1026"
-"POINT (417098.615795307 5455486.86798616)";n8809479336;"8809479336";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Maturkowa Turnia;;
-"POINT (417060.48246323 5455516.6081546)";n8809479339;"8809479339";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skała;;;;;;;;;;;;;;;;;;Kazalnica;;
-"POINT (416914.203863851 5455465.67565675)";n8809479343;"8809479343";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;masyw;;;;;;;;;;;;;;;;;;Stoły;;
-"POINT (416274.230385702 5455138.07125421)";n8809479346;"8809479346";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zawieszona Skała;;
-"POINT (413145.512771867 5455194.39883346)";n8809867690;"8809867690";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skała;;;;;;;;;;;;;;;;;;Zawiesista;;
-"POINT (413162.956180446 5455443.59876157)";n8809867701;"8809867701";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skały;;;;;;;;;;;;;;;;;;Organy;;
-"POINT (412808.153778351 5455311.77161561)";n8809867702;"8809867702";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;skała;;;;;;;;;;;;;;;;;;Piece;;
-"POINT (413510.373126344 5455680.07560933)";n8809867703;"8809867703";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Olejarnia;;
-"POINT (413441.856856929 5456989.4186928)";n8809914835;"8809914835";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Grześ;;"1050"
-"POINT (412608.686650165 5457176.98853149)";n8809914840;"8809914840";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Pośrednie;;"1260"
-"POINT (412407.474564415 5457615.10538861)";n8809914841;"8809914841";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Tyrałowa Czuba;;
-"POINT (414328.200775182 5457073.87328866)";n8809914845;"8809914845";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Huciański Klin;;"1180"
-"POINT (415017.507391493 5457131.67702933)";n8809914850;"8809914850";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kuca;;"1294"
-"POINT (415097.372336758 5457432.15608324)";n8809914852;"8809914852";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Banie;;"1270"
-"POINT (413705.739441781 5458728.49935743)";n8809914868;"8809914868";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mała Furkaska;Q11772044;;;;;;;;Mała Furkaska;;"1132"
-"POINT (428099.06690912 5461153.53155956)";n8911467277;"8911467277";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Toporów Wierch;;"929"
-"POINT (427940.608766408 5451874.22891503)";n8930822599;"8930822599";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Walentkowa Kopka;Q60855968;;;"143691";;;;;Walentkowa Kopka;;
-"POINT (420042.944362565 5456579.73187726)";n8964222564;"8964222564";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1355.2"
-"POINT (432146.174582647 5453997.3256449)";n8967856473;"8967856473";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Zagonny Zwornik;;
-"POINT (432089.507502237 5453963.00107827)";n8967856477;"8967856477";node;peak;;;;;;;;;;;;;;;;Zagonny Wierch;;;;;;;;;;;;;;;;;;;;pl:Wierch nad Zagonnym Żlebem;Q9373222;;;;;;;;Wierch nad Zagonnym Żlebem;;"2039"
-"POINT (432376.673258401 5452235.55493108)";n8993678469;"8993678469";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Czuba nad Uboczą;Q16538420;;;;;;;;Czuba nad Uboczą;;
-"POINT (432245.473540658 5451729.51118877)";n9004693486;"9004693486";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Kępa;;"1683"
-"POINT (432952.359883754 5453573.73429186)";n9021008781;"9021008781";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Roztocka Turniczka;Q16597631;;;;;;;;Roztocka Turniczka;;"1536"
-"POINT (429643.488666774 5453208.69564402)";n9029897690;"9029897690";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zadnia Pańszczycka Czuba;Q24947603;;;;Zadná paňščická čuba;;Hátsó-Pańszczyca-púp;Hintere Pańszczyca Koppe;Zadnia Pańszczycka Czuba;;
-"POINT (430112.078026281 5453048.54934992)";n9032605691;"9032605691";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Buczynowa Turniczka;Q9181259;;;;;;;;Buczynowa Turniczka;;
-"POINT (430572.189884156 5453291.82971239)";n9032605698;"9032605698";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kopa nad Krzyżnem;Q11743310;;;;Kopa nad Krížnym;;Kereszt-domb;Kreuzkoppe;Kopa nad Krzyżnem;;"2135"
-"POINT (430471.750420233 5453232.81213202)";n9032605702;"9032605702";node;peak;;;;;;;;;;;;;;;;;;;;Pióro;;;;;;;;;;;;;;;;pl:Ptak (Tatry);Q11830745;;;;Vták;;Madár;Vogel;Ptak;;"2131"
-"POINT (430057.972521737 5453129.44517074)";n9032605713;"9032605713";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Budzowa Igła;Q9181632;;;;Budzova ihla;;Budz-tű;Buchentalnadel;Budzowa Igła;;
-"POINT (429762.331581811 5453161.4816491)";n9032609524;"9032609524";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mała Orla Turniczka;Q11772079;;;;Malá Orlia vežička;;Kis-Sas-tornyocska;Kleines Adlertürmchen;Mała Orla Turniczka;;"2158"
-"POINT (429735.540302581 5453143.71124654)";n9032609525;"9032609525";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielka Orla Turniczka;Q9372814;;;;Veľká Orlia vežička;;Nagy-Sas-tornyocska;Großes Adlertürmchen;Wielka Orla Turniczka;;"2162"
-"POINT (421205.895790054 5456540.27191605)";n9034231033;"9034231033";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Grzybowiec (Tatry);Q9282295;;;"40009";;;;;Grzybowiec;;"1417"
-"POINT (421763.303584949 5456247.53845878)";n9034231034;"9034231034";node;peak;;;;;;;;;;;;;;;;Bacug;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Bacuch;;"1507"
-"POINT (429550.122054947 5452512.45596478)";n9036094075;"9036094075";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Czarny Mniszek;Q9198182;;;;;;;;Czarny Mniszek;;"2178"
-"POINT (429619.907389556 5452771.92685733)";n9036094083;"9036094083";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Pośrednia Sieczkowa Turnia;Q24947684;;;;;;;;Pośrednia Sieczkowa Turnia;;"2205"
-"POINT (429589.600791392 5452784.13315639)";n9036094091;"9036094091";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Skrajna Sieczkowa Turnia;Q24947668;;;;;;;;Skrajna Sieczkowa Turnia;;
-"POINT (429079.669589404 5452259.3184912)";n9041102944;"9041102944";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"60465";Kozie čuby;;Zerge-bástya;Gemsenbastei;Kozie Czuby;;"2239"
-"POINT (429140.639462665 5452235.15169312)";n9041102947;"9041102947";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"60465";Kozie čuby;;Zerge-bástya;Gemsenbastei;Kozie Czuby;;"2256"
-"POINT (413573.276572256 5460973.08836051)";n9129083584;"9129083584";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Przysłop Witowski;Q11830279;;;;;;;;Witowski Przysłop;;"1164"
-"POINT (431164.857992816 5448836.72438128)";n9296056231;"9296056231";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Cubryńska Strażnica;Q110416641;;;;;;;;Cubryńska Strażnica;;"2335"
-"POINT (426997.210942785 5455003.02216225)";n9447967719;"9447967719";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Małe Uhrocie Kasprowe;Q11772202;;;;;;;;Małe Uhrocie Kasprowe;;"1750"
-"POINT (426491.794285596 5454534.93413494)";n9447967724;"9447967724";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1852"
-"POINT (423914.849515045 5458604.01657459)";n9451044777;"9451044777";node;peak;;;;;;;;;;;;;;;;Kopa nad Białem;;;;;;;;;;;;;;;;;;;;pl:Kopa nad Białym;Q11743309;;;"51540";;;;;Kopa nad Białym;;"1035"
-"POINT (423148.096441749 5457544.67074761)";n9451044782;"9451044782";node;peak;;;;;;;;;;;;;;;;Wyżnia Zawieszka;;;;;;;;;;;;;;;;;;;;pl:Zawieszka (turnia);Q9387542;;;"224987";;;;;Zawieszka;;"1339"
-"POINT (423459.808266847 5457903.50160639)";n9451044783;"9451044783";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Łomik;Q9394295;;;"73174";;;;;Łomik;;"1270"
-"POINT (425115.478779352 5457474.21530561)";n9489833354;"9489833354";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"137299";;;;;Śpiąca Gora;;"1186"
-"POINT (430285.990969423 5456326.2057081)";n9512402761;"9512402761";node;peak;;;;;;;;;;;;;;;;Jasicowa Czubka;;;;;;;;;;;;;;;;;;;;pl:Łasicowa Czubka;Q60854945;;;"71404";;;;;Łasicowa Czubka;;"1461.2"
-"POINT (429387.790540847 5458056.92185623)";n9512402786;"9512402786";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kotlinowy Wierch;Q11744391;;;;;;;;Kotlinowy Wierch;;"1304"
-"POINT (430403.639562347 5449754.48727399)";n9520210970;"9520210970";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"241174";;;;;Szpiglasowa Kopka;;
-"POINT (426037.635894901 5450819.3857508)";n9613404925;"9613404925";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q9385728;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Zadnia Rycerowa Kopa;;;Zadná Licierova kopa;"1956.25";"1958"
-"POINT (423437.604047149 5448100.72242581)";n9620398166;"9620398166";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11772188;;;;;Małe Krzyżne Liptowskie;;;Malé Krížné;;"1919"
-"POINT (423679.532661385 5451097.09005805)";n9620399269;"9620399269";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11792533;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Niżnia Magura Rycerowa;;;Malá Licierova Magura;"1784.84";"1785"
-"POINT (424211.87657217 5451107.323104)";n9620402697;"9620402697";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11826396;;;;;Pośrednia Magura Rycerowa;;;Prostredná Licierova Magura;;"1933"
-"POINT (424714.728527931 5450972.57716083)";n9620407830;"9620407830";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q9380662;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Wyżnia Magura Rycerowa;;;Veľká Licierova magura;"1994.98";"1995"
-"POINT (425249.54542122 5450268.02191395)";n9620407832;"9620407832";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"176";sk:Veľká kopa (vrch vo Vysokých Tatrách);Q2681073;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Wielka Kopa Koprowa;Nagy-Kapor-tető;;Veľká kopa;"2052.28";"2052"
-"POINT (425952.922264848 5450503.1183467)";n9620407833;"9620407833";node;peak;;skgeodesy.sk;;;;;;;;;Záväzné názvoslovie vrchov;;;;;;;;;;;;;;;;;;;;;;;;;;Q31568537;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;Nagy-Csendes-tető;;Veľká Garajova kopa;"1969.81";"1969"
-"POINT (426281.067399686 5450314.03959136)";n9620407834;"9620407834";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11772045;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Mała Garajova Kopa;;;Malá Garajova kopa;"1926.91";"1929"
-"POINT (426723.42273717 5450162.79951576)";n9620407835;"9620407835";node;peak;;;;;;;;;;;;;;;;Tichý kopec;;;;;;;;;;;;;;;;;;;;pl:Zadnia Garajowa Kopa;Q31568521;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;Zadnia Garajowa Kopa;Csendes-hegy;;Zadná Garajova kopa;"1947.23";"1949"
-"POINT (421463.167312231 5461781.4136602)";n9623503521;"9623503521";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Gubałówka;Q913060;;;;;;;;Gubałówka;;"1133"
-"POINT (410231.929135061 5452956.26300551)";n9665377556;"9665377556";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1785"
-"POINT (427879.688980154 5452315.04487595)";n9957754032;"9957754032";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Świnicka Kopa;Q9396450;;;"174798";Svinicová kopa;;Svinica-púp;Seealmkoppe;Świnicka Kopa;;"2298"
-"POINT (426445.027863953 5453101.95716548)";n9957754070;"9957754070";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Liliowa Kopka;Q11756818;;;"225062";;;;;Liliowa Kopka;;"1979"
-"POINT (428126.787488795 5453321.05215464)";n9962071956;"9962071956";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Czuba nad Karbem;Q24947506;;;"225137";Čuba nad Karbom;;Karb-púp;Kerbkoppe;Czuba nad Karbem;;"1896"
-"POINT (427711.570199685 5451714.79708945)";n9973078509;"9973078509";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Niżnia Walentkowa Baszta;Q60856157;;;"225127";Nižná Valentkova bašta;Niżnia Walentkowa Baszta;Alsó-Bálint-bástya;Untere Valentinsbastei;Niżnia Walentkowa Baszta / Nižná Valentkova bašta;;"2129"
-"POINT (427732.235823854 5451777.63526051)";n9973078511;"9973078511";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielka Walentkowa Czuba;Q60856158;;;"225128";;Wielka Walentkowa Czuba;Nagy-Bálint-fog;Grosser Valentinszahn;Wielka Walentkowa Czuba;;"2128"
-"POINT (427769.378185599 5451814.45120659)";n9973078513;"9973078513";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wyżnia Walentkowa Czuba;Q60856195;;;;Vyšný Valentkov zub;Wyżnia Walentkowa Czuba;Felső-Bálint-fog;Oberer Valentinszahn;Vyšný Valentkov zub / Wyżnia Walentkowa Czuba;;"2114"
-"POINT (427793.10649913 5451848.174284)";n9973078515;"9973078515";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Pośrednia Walentkowa Czuba;Q60856268;;;"225124";Prostredný Valentkov zub;Pośrednia Walentkowa Czuba;Középső-Bálint-fog;Mittlerer Valentinszahn;Pośrednia Walentkowa Czuba / Prostredný Valentkov zub;;"2107"
-"POINT (427830.056704968 5451928.77821954)";n9973083717;"9973083717";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mała Walentkowa Czuba;Q60856192;;;"225125";Malý Valentkov zub;Mała Walentkowa Czuba;Kis-Bálint-fog;Kleiner Valentinszahn;Mała Walentkowa Czuba / Malý Valentkov zub;;"2108"
-"POINT (430333.623211099 5449336.25026459)";n9978523978;"9978523978";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Głaźna Czuba;Q60855008;;;;Piargová veža;Głaźna Czuba;Kőtáblás-torony;Schrofenturm;Piargová veža / Głaźna Czuba;;
-"POINT (430141.099115836 5449548.35766989)";n9978523979;"9978523979";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;"Dziurawa Turnia;Dziurawy Kopiniec";;;;;;;;pl:Dziurawa Czuba;Q9248959;;;"29252";Deravá veža;Dziurawa Czuba;Lyukas-torony;Löchriger Turm;Deravá veža / Dziurawa Czuba;;
-"POINT (430107.154194961 5449589.48138604)";n9978523981;"9978523981";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Szpiglasowa Turniczka;Q60855002;;;"135919";Deravá veľička;Szpiglasowa Turniczka;Liptói-tornyocska;Löchriges Türmchen;Deravá veľička / Szpiglasowa Turniczka;;
-"POINT (430099.004719425 5449597.86794212)";n9978523983;"9978523983";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Szpiglasowy Ząb;Q60854990;;;"241203";Hrubý zub;Szpiglasowy Ząb;Liptói-fog;Löchriger Zahn;Hrubý zub / Szpiglasowy Ząb;;"2120"
-"POINT (430063.747398366 5449681.39217436)";n9978523985;"9978523985";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;Szpiglasowy Kopiniec;;;;;;;;pl:Szpiglasowa Czuba;Q9352097;;;"135923";Malý Hrubý štít;Szpiglasowa Czuba;Kis-Liptói-határhegy;Kleiner Liptauer Grenzberg;Malý Hrubý štít / Szpiglasowa Czuba;;
-"POINT (431127.628065838 5448757.54801423)";n9983979742;"9983979742";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Cubryński Ząb;Q110427697;;;;;;;;Cubryński Ząb;;
-"POINT (431118.047442131 5448771.18763173)";n9983979743;"9983979743";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Cubryński Zwornik;Q65165583;;;"241165";;;;;Cubryński Zwornik;;
-"POINT (431013.15960786 5448780.2480446)";n9983979744;"9983979744";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Cubryński Słup;Q86686156;;;;;;;;Cubryński Słup;;
-"POINT (430559.101640292 5449087.76680756)";n9983979745;"9983979745";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Turniczka Chałubińskiego;Q65166691;;;;Chałubińského vežička;Turniczka Chałubińskiego;Chałubiński-tornyocska;Chałubiński-Türmchen;Chałubińského vežička / Turniczka Chałubińskiego;;"2073"
-"POINT (431627.170645065 5448442.38663779)";n9991444350;"9991444350";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mięguszowiecki Szczyt Pośredni;Q1664928;;;"80259";Prostredný Mengusovský štít;Mięguszowiecki Szczyt Pośredni;Középső-Menguszfalvi-csúcs;Mittlere Mengsdorfer Spitze;Mięguszowiecki Szczyt Pośredni / Prostredný Mengusovský štít;;"2389"
-"POINT (431603.895530432 5448480.25529408)";n9991444414;"9991444414";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;W PRNG również jako id 174778 (Mała Mięguszowiecka Igła);;;Mała Mięguszowiecka Igła;;;;;;;;pl:Cienka Igła;Q110427609;;;"241275";Malá mengusovská ihla;Cienka Igła;;;Cienka Igła / Malá mengusovská ihla;;
-"POINT (431596.812957059 5448486.24697573)";n9991444416;"9991444416";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;W PRNG również jako id 174779 (Wielka Mięguszowiecka Igła);;;Wielka Mięguszowiecka Igła;;;;;;;;pl:Igła Milówki;Q110427608;;;"240709";Veľká mengusovská ihla;Igła Milówki;;;Igła Milówki / Veľká mengusovská ihla;;"2355"
-"POINT (431536.586947395 5448613.27672074)";n9991444417;"9991444417";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mięguszowiecka Baszta;Q110427585;;;"240722";;;;;Mięguszowiecka Baszta;;"2410"
-"POINT (431268.424505846 5448736.32342378)";n9991444420;"9991444420";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mięguszowiecka Turniczka;Q110427641;;;"218474";Mengusovská vežička;Mięguszowiecka Turniczka;;;Mięguszowiecka Turniczka / Mengusovská vežička;;
-"POINT (422942.027755824 5454080.53289507)";n10027944558;"10027944558";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1864"
-"POINT (423343.882740525 5453908.86379779)";n10027944619;"10027944619";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1813"
-"POINT (423388.410858077 5453896.52485535)";n10027944628;"10027944628";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1819"
-"POINT (422850.282405047 5453938.9065592)";n10027944667;"10027944667";node;peak;;;;;;;;;;;;;;;skgeodesy.sk;Suchý vrch Kondracký;;;;;;;;;;;;;;;;;;;;;;;;;;Suchy Wierch Kondracki;;;Suchá kopa;;"1895"
-"POINT (423446.315313646 5453893.11776569)";n10027944669;"10027944669";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Mała Sucha Czuba Kondracka;Q11772105;;;"174793";;;;;Mała Sucha Czuba Kondracka;;"1832"
-"POINT (423576.703704542 5453866.522778)";n10027944670;"10027944670";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Pośrednia Sucha Czuba Kondracka;Q11826406;;;"174794";;;;;Pośrednia Sucha Czuba Kondracka;;"1844"
-"POINT (423855.45909743 5453803.1421806)";n10027944672;"10027944672";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wysoka Sucha Czuba Kondracka;Q9380224;;;"174795";;;;;Wysoka Sucha Czuba Kondracka;;"1876"
-"POINT (424078.510147211 5453810.02501956)";n10027944678;"10027944678";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Horičkova kopa;;;;;;;;;;Goričkova kopa;Goryczkowa Czuba;;;Goričkova kopa / Goryczkowa Czuba;;"1911"
-"POINT (418387.381897878 5448509.75968392)";n10068611390;"10068611390";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;ÚGKK SR DMR5.0;ÚGKK SR DMR5.0;;;;;;Grešovo;"1923.27";"1911"
-"POINT (417866.889369363 5453829.67169762)";n10128847999;"10128847999";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Gubalec;Q9282491;;;"40109";;;;;Gubalec;;
-"POINT (418161.20586896 5453711.50806083)";n10128848003;"10128848003";node;peak;;;;;;;;;;;;;;;;Smreczyński Żar;;;;;;;;;;;;;;;;;;;;pl:Smreczyński Żar;Q9338771;;;"163223";;;;;Żar;;
-"POINT (418888.572183557 5453548.02655298)";n10128848016;"10128848016";node;peak;;;;;;;;;;;;;;;;Tomanowy Niedźwiedź;;;;;;;;;;;;;;;;;;;;pl:Tomanowy Niedźwiedź;Q9359128;;;"86695";;;;;Niedźwiedź;;
-"POINT (417709.781540205 5462222.42229835)";n10665363668;"10665363668";node;peak;;;;;;;;;;;;;;;;Miętlówka;;;;;;;;;;;;;;;;;;;;pl:Mietłówka;Q16577154;;;;;;;;Mietłówka;;"1118"
-"POINT (418731.000581912 5454117.16718346)";n10802758131;"10802758131";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Niska Turnia;Q11792347;;;"224571";;;;;Niska Turnia;;
-"POINT (427610.237524736 5447798.71823199)";n10824027863;"10824027863";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11835979;;;;;Skrajna Garajowa Turnia;;;Predná Garajova veža;;"2270"
-"POINT (437613.237486094 5448131.12057276)";n10827006059;"10827006059";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-"POINT (418264.160017016 5454353.40889554)";n10840390978;"10840390978";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Ptakowa Turnia;Q16592871;;;"112754";;;;;Ptakowa Turnia;;
-"POINT (418350.698786649 5454337.02515938)";n10840390984;"10840390984";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Gładka Turnia;Q11703174;;;;;;;;Gładka Turnia;;
-"POINT (418315.800936967 5454517.61691298)";n10840394019;"10840394019";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Upłazkowy Kopiniak;Q9366963;;;"240551";;;;;Upłazkowy Kopiniak;;
-"POINT (418188.932884033 5454533.22162668)";n10840394025;"10840394025";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Upłazkowa Baszta;Q9366955;;;"240554";;;;;Upłazkowa Baszta;;
-"POINT (418337.134146108 5454506.37035436)";n10840394028;"10840394028";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"240548";;;;;Upłazkowy Ząb;;
-"POINT (418363.491299404 5454493.65949622)";n10840394029;"10840394029";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Upłazkowa Kopa;Q9366957;;;"240544";;;;;Upłazkowa Kopa;;
-"POINT (433299.997723066 5448263.06983719)";n10857662104;"10857662104";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"2198"
-"POINT (433250.93259637 5448297.36287591)";n10857671205;"10857671205";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zadnia Tomkowa Igła;Q86726315;;;"218402";Zadná Tomkova ihla;;Hátsó-Tomko-tû;Oberes Tomkow-Türmchen;Zadnia Tomkowa Igła;;"2133"
-"POINT (417380.701802693 5454355.46432716)";n10873136330;"10873136330";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zbójnicka Turnia;Q9388831;;;"160404";;;;;Zbójnicka Turnia;;
-"POINT (417887.509577312 5454214.84234851)";n10873136341;"10873136341";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Wielka Turnia (Gubalec);Q9372870;;;"146126";;;;;Wielka Turnia;;
-"POINT (418105.977513349 5454156.8604177)";n10873136350;"10873136350";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Baszta (Wąwóz Kraków);Q9166754;;;"263659";;;;;Baszta;;
-"POINT (417359.808567243 5454448.33383946)";n10873151884;"10873151884";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zbójnicka Igła;Q9388827;;;"174820";;;;;Zbójnicka Igła;;
-"POINT (433464.680568181 5448344.41274848)";n11066304549;"11066304549";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"Niżne Rysy, Skrajna Turnia / Malé Rysy, Predná veža";;"2375"
-"POINT (420166.22165076 5453364.74104273)";n11079467141;"11079467141";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"224828";;;;;Głazista Czubka;;"1982"
-"POINT (417650.143959472 5451833.74549622)";n11090149599;"11090149599";node;peak;;;;;;;;Kopa;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jaferowa Kopa;Q11716030;;;"57487";;;;;Jaferowa Kopa;;"1595"
-"POINT (431831.24210571 5457693.52473404)";n11217424618;"11217424618";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zadnia Kopa Sołtysia;Q24947369;;;"155459";;;;;Zadnia Kopa Sołtysia;;"1420"
-"POINT (431687.705048746 5458043.33824631)";n11217424620;"11217424620";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Średnia Kopa Sołtysia;Q24947368;;;"137382";;;;;Średnia Kopa Sołtysia;;"1362"
-"POINT (431608.688979325 5458444.81059269)";n11217424621;"11217424621";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Przednia Kopa Sołtysia;Q24947371;;;"110804";;;;;Przednia Kopa Sołtysia;;"1334"
-"POINT (432420.501318762 5458420.11935776)";n11217424622;"11217424622";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Łężny Wierch;Q24947348;;;"72973";;;;;Łężny Wierch;;
-"POINT (432825.775127622 5458338.93621144)";n11217424623;"11217424623";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Filipczański Wierch;Q9259656;;;"29980";;;;;Filipczański Wierch;;"1223"
-"POINT (410717.37055976 5454756.38564006)";n11331646687;"11331646687";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q9199572;;;;;;;;Czoło;;
-"POINT (415377.901234275 5448427.68067782)";n11331646693;"11331646693";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q9265905;;;;;;;;Hrbáč;;
-"POINT (423168.266155684 5456193.40698872)";n11581710075;"11581710075";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Juhaska Kopa;Q17385370;;;"263700";;;;;Juhaska Kopa;;
-"POINT (423307.041484846 5456224.26073661)";n11581710090;"11581710090";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Turnia nad Białem;Q9362821;;;"224845";;;;;Turnia nad Białem;;"1740"
-"POINT (423055.430651974 5456166.83051708)";n11581710098;"11581710098";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Juhaska Turnia (Tatry Zachodnie);Q17619418;;;"263699";;;;;Juhaska Turnia;;"1834"
-"POINT (421966.792772169 5455927.49169767)";n11592361035;"11592361035";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Skrajna Giewoncka Baszta;Q20034149;;;"263217";;;;;Skrajna Giewoncka Baszta;;"1730"
-"POINT (422022.143351672 5456001.19303613)";n11592361058;"11592361058";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Szara Turnia;Q19632464;;;"224727";;;;;Szara Turnia;;"1647"
-"POINT (422007.415175498 5455873.05560593)";n11592361063;"11592361063";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Biała Giewoncka Baszta;Q20033660;;;"263218";;;;;Biała Giewoncka Baszta;;"1728"
-"POINT (422035.427773919 5455804.99983809)";n11592361113;"11592361113";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Zadnia Giewoncka Baszta;Q20034264;;;"263687";;;;;Zadnia Giewoncka Baszta;;"1735"
-"POINT (422069.359877884 5455783.79351373)";n11592361114;"11592361114";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Giewoncki Chłopek;Q20033733;;;"263688";;;;;Giewoncki Chłopek;;"1730"
-"POINT (422017.064010995 5455809.16277295)";n11592361116;"11592361116";node;peak;;;;;;;;;;;;;;;;Mały Giewont;;;;;;;;;;;;;;;;;;;;pl:Wysoka Giewoncka Baszta;Q20034258;;;"263216";;;;;Wysoka Giewoncka Baszta;;"1738"
-"POINT (423163.70080096 5456380.39070371)";n11595734600;"11595734600";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Sucha Czubka;Q17619478;;;"224939";;;;;Sucha Czubka;;"1562"
-"POINT (424515.60520405 5456339.24090402)";n11595734623;"11595734623";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1419"
-"POINT (424589.953399241 5457060.00141473)";n11595734654;"11595734654";node;peak;;;;;;;;;;;;;;;;Biała Czuba;;;;;;;;;;;;;;;;;;;;pl:Biała Czubka;Q17619443;;;"225000";;;;;Biała Czubka;;"1333"
-"POINT (422355.167975833 5455586.43997704)";n11595734713;"11595734713";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kondracka Kopka;Q11742292;;;;;;;;Kondracka Kopka;;"1776"
-"POINT (421412.874812764 5457140.10637805)";n11603240935;"11603240935";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Czarna Turnia (Łysanki);Q17619412;;;"18938";;;;;Czarna Turnia;;"1323"
-"POINT (421666.521368479 5457690.64869957)";n11603241052;"11603241052";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Samkowy Zwornik;Q9333135;;;"263745";;;;;Samkowy Zwornik;;"1316"
-"POINT (421525.707482595 5457471.74343192)";n11603241071;"11603241071";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jatki (Łysanki);Q11723332;;;"45407";;;;;Jatki;;"1377"
-"POINT (427833.707349407 5457214.11688754)";n11603241165;"11603241165";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Suchy Wierch Olczyski;Q9347853;;;"133273";;;;;Suchy Wierch Olczyski;;"1227"
-"POINT (424784.714901941 5458824.03296917)";n11603241276;"11603241276";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kogutki (Tatry Zachodnie);Q11740871;;;;;;;;Kogutki;;"1011"
-"POINT (424775.552281347 5458817.90951392)";n11603241277;"11603241277";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Kogutki (Tatry Zachodnie);Q11740871;;;;;;;;Kogutki;;"1013"
-"POINT (424872.445559132 5458623.13860632)";n11603241283;"11603241283";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Jastrzębia Turnia (Tatry Zachodnie);Q17619416;;;"45167";;;;;Jastrzębia Turnia;;
-"POINT (429451.358916429 5448551.37203156)";n12196864682;"12196864682";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Nižný Prostredný chrbát;;"2100"
-"POINT (430058.38884655 5448323.83006007)";n12196864684;"12196864684";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Palec;;"2220"
-"POINT (430511.311073844 5448190.47781434)";n12196864685;"12196864685";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Malý Kôprovský štít;;"2350"
-"POINT (427757.908171526 5462571.27190012)";n12230230635;"12230230635";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Walkoszów Wierch;;"905"
-"POINT (428119.544633852 5461927.68580921)";n12230230636;"12230230636";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Piszczorów Wierch;;"910"
-"POINT (431505.78901647 5449219.51125272)";n12407901058;"12407901058";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;pl:Turnia Zwornikowa;Q9362819;;;;;;;;Turnia Zwornikowa;;"1962"
-"POINT (416587.720933091 5462452.61785764)";n12407906873;"12407906873";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Płazowski Wierch;;"1059"
-"POINT (417213.991007113 5463194.5414615)";n12407906875;"12407906875";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Iwański Wierch;;"1023"
-"POINT (414272.922306832 5461491.32499904)";n12407906876;"12407906876";node;peak;;;;;;;;;;;;;;;;Hurchoci Wierch;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Urchoci Wierch;;"1106"
-"POINT (418933.342181849 5464546.49618687)";n12407906877;"12407906877";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"1010"
-"POINT (430730.863125323 5447995.51274665)";n12676899040;"12676899040";node;peak;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Q11743543;;;;Koprovské plece;Koprowa Kopa;;;Koprovské plece;;"2312"
+peaks_id;WKT;name:pl;ele
+0;POINT (431044.892473653 5448764.10757276);Cubryna;2376.0
+2;POINT (430641.318184733 5448165.73769788);Koprowy Wierch;2367.0
+3;POINT (437153.643231311 5451049.93039846);Szeroka Jaworzyńska;2210.0
+4;POINT (432042.552278778 5448198.35357816);Mięguszowiecki Szczyt Czarny;2410.0
+5;POINT (432594.667174848 5447755.44136056);Wołowa Turnia;2373.0
+6;POINT (433636.678391617 5448737.34045328);Żabi Szczyt Wyżni;2263.0
+7;POINT (427667.404851769 5451657.43755203);Walentkowy Wierch;2156.0
+8;POINT (433540.240352901 5448243.07038366);Niżnie Rysy;2430.0
+9;POINT (427079.957785481 5452746.33479086);Skrajna Turnia;2097.0
+10;POINT (436607.896935117 5447977.42093187);Hruba Turnia;2086.0
+11;POINT (428138.279764385 5450910.94615065);Gładki Wierch;2065.0
+12;POINT (430805.109136021 5448958.46959617);Zadni Mnich;2172.0
+13;POINT (426313.53129395 5453321.17430004);Beskid;2012.0
+14;POINT (430069.112015648 5449831.4790492);Szpiglasowy Wierch;2172.1
+15;POINT (429501.010486996 5450135.28827509);Niżni Kostur;2055.0
+16;POINT (428638.280165198 5452254.91103368);Mały Kozi Wierch;2226.0
+17;POINT (429268.553979903 5452179.51639803);Kozi Wierch;2291.0
+20;POINT (415555.840098331 5449516.43350751);Błyszcz;2159.0
+21;POINT (415664.863060074 5449068.59743946);Bystra;2248.0
+22;POINT (420164.598481492 5453714.92438029);Ciemniak;2096.0
+23;POINT (421323.821857039 5454234.45310105);Małołączniak;2096.0
+24;POINT (437866.53114686 5448133.49861632);Świstowy Szczyt;2382.0
+27;POINT (427533.286331051 5450293.45690383);Cichy Wierch;1979.0
+29;POINT (433970.41951 5448227.50907825);Ciężka Turnia;2254.0
+30;POINT (434572.882901154 5449978.75088643);Mały Młynarz;1973.0
+31;POINT (437046.412363651 5450471.04026438);Zielona Czuba;2130.0
+32;POINT (437417.554522503 5451898.22499698);Świstowa Góra;2070.0
+33;POINT (431453.135446034 5448673.26283602);Mięguszowiecki Szczyt Wielki;2438.0
+35;POINT (411549.387237142 5455538.86687387);Bobrowiec;1665.0
+37;POINT (410218.110435876 5454494.51083152);Grześ;1653.0
+38;POINT (409585.089222544 5452205.04074672);Rakoń;1879.0
+42;POINT (431462.801245133 5450948.42481991);Opalony Wierch;2115.0
+43;POINT (429582.393448214 5450050.75943742);Wyżni Kostur;2083.0
+47;POINT (428180.209971858 5452342.11785124);Niebieska Turnia;2262.0
+49;POINT (429644.381526924 5452394.23992887);Buczynowa Strażnica;2242.0
+52;POINT (411030.418931118 5450963.46460957);Łopata;1958.0
+55;POINT (414033.407444033 5450289.48451239);Starorobociański Wierch;2176.0
+56;POINT (413144.348285483 5451002.502655);Kończysty Wierch;2002.0
+58;POINT (414736.847219689 5450532.390543);Siwy Zwornik;1965.0
+60;POINT (424734.141793793 5453681.88733379);Pośredni Goryczkowy Wierch;1874.0
+64;POINT (424112.061316769 5453799.35549102);Goryczkowa Czuba;1912.0
+65;POINT (422430.593322154 5455900.37585371);Wielki Giewont;1894.5
+67;POINT (422856.172778341 5453970.07921257);Suchy Wierch Kondracki;1893.0
+71;POINT (420058.527887539 5451749.21194081);Tomanowy Wierch Polski;1977.0
+73;POINT (418478.885868867 5450759.57533384);Smreczyński Wierch;2067.0
+76;POINT (420033.599288066 5452112.98656864);Suchy Wierch Tomanowy;1869.0
+79;POINT (417714.896502553 5449785.51000895);Kamienista;2127.0
+81;POINT (420608.75976809 5453781.59961021);Krzesanica;2122.0
+87;POINT (411092.949883278 5455449.49208459);Jamborowy Wierch;1565.0
+94;POINT (429577.891321747 5453451.15126006);Pańszczycka Turnia;2105.0
+95;POINT (429631.382066876 5453259.67319648);Skrajna Pańszczycka Czuba;2155.0
+97;POINT (429576.959661486 5453358.35658822);Wierch pod Fajki;2135.0
+102;POINT (433568.019678776 5447790.0103263);Rysy;2501.0
+131;POINT (409909.616858597 5451266.95200127);Wołowiec;2064.0
+142;POINT (434617.30816416 5449344.82711334);Wielki Młynarz;2170.0
+143;POINT (436372.491606398 5451499.38588797);Spismichałowa Czuba;2010.0
+144;POINT (421949.680565504 5449134.95353387);Brdarowa Dzwonnica;1712.0
+146;POINT (424694.664272714 5448927.61833898);Skrajny Goły Wierch Liptowski;1984.0
+148;POINT (420191.313688026 5449649.79634619);Hlinik;1505.0
+149;POINT (437930.797381452 5455051.40180827);Baboś;1471.0
+151;POINT (420285.367840853 5453020.75038785);Głazista Turnia;1949.0
+153;POINT (422959.509172452 5449880.0239643);Wielka Brdarowa Grapa;1859.0
+157;POINT (430122.819462636 5453154.19472863);Wielka Buczynowa Turnia;2184.0
+158;POINT (430328.619606331 5453178.77247488);Mała Buczynowa Turnia;2172.0
+160;POINT (428311.253485413 5452743.28241756);Mylna Kopa;2159.0
+161;POINT (428318.545364081 5452789.32972332);Zadni Kościelec;2162.0
+162;POINT (427810.068190602 5452390.00665474);Świnica;2291.0
+166;POINT (427857.525556428 5452320.54967411);Świnica;2302.0
+171;POINT (428297.418372465 5452369.07703679);Zawratowa Turnia;2247.0
+175;POINT (429794.976932903 5453175.21935813);Orla Baszta;2177.0
+177;POINT (427274.010938202 5452646.50356802);Pośrednia Turnia;2128.0
+179;POINT (430675.075042616 5448975.55713874);Ciemnosmreczyńska Turnia;2142.0
+180;POINT (433487.176296085 5448484.40988591);Spadowa Kopa;2252.0
+181;POINT (433390.33271985 5448887.44959007);Żabi Mnich;2146.0
+183;POINT (432899.655205367 5447716.74561372);Żabi Koń;2291.0
+184;POINT (432741.260498868 5447720.5642997);Żabia Turnia Mięguszowiecka;2336.0
+186;POINT (432210.540060887 5448460.87011062);Kazalnica Mięguszowiecka;2159.0
+187;POINT (432519.995060623 5447814.12494132);Rogata Turniczka;2365.0
+188;POINT (432153.753581442 5447988.12670634);Hińczowa Turnia;2372.0
+189;POINT (432159.711088964 5447969.37462723);Hińczowa Turniczka;2360.0
+190;POINT (431918.655430824 5448281.53443923);Chłopek;2340.0
+191;POINT (429081.878772861 5450193.74350442);Mała Kotelnica;1974.0
+192;POINT (428677.950672102 5450330.85341416);Wielka Kotelnica;1987.0
+193;POINT (428566.194810684 5450436.58120536);Gładka Kotelnica;1990.0
+194;POINT (433434.018970601 5449924.37222481);Żabia Czuba;2079.0
+196;POINT (433281.188026367 5449649.92898693);Niżni Żabi Szczyt;2098.0
+197;POINT (433285.168209512 5449522.39810994);Marusarzowa Turnia;2075.0
+198;POINT (433305.575719862 5449383.63919082);Owcze Turniczki;2040.0
+200;POINT (433291.21022237 5448797.17722514);Żabia Lalka;2095.0
+201;POINT (425855.659533675 5453723.65728389);Kasprowy Wierch;1987.0
+206;POINT (422274.508009401 5454299.99550336);Kopa Kondracka;2005.0
+207;POINT (418703.88354179 5450752.72769844);Smreczyński Wierch;2068.0
+208;POINT (419660.025763771 5451609.37077052);Tomanowa Kopa;1899.0
+209;POINT (412645.294019593 5450629.21767318);Kopa Prawdy;2027.0
+210;POINT (412220.710931478 5450106.96909292);Jarząbczy Wierch;2137.0
+214;POINT (411870.675609765 5457245.5495553);Furkaska;1491.0
+243;POINT (437868.742155521 5458520.51174871);Chowańców Wierch;1038.0
+244;POINT (433542.441013018 5447818.89235279);Rysy;2499.0
+252;POINT (422750.36115729 5453148.74325786);Jaworowe Skałki;1657.0
+253;POINT (422820.604644705 5453626.70400064);Jaworowa Kopa;1791.0
+254;POINT (421072.1493196 5453301.23751232);Rozpadła Kopa;1970.0
+255;POINT (424273.789794587 5448154.88180288);Krzyżne Liptowskie;2039.0
+256;POINT (424881.278550793 5451506.39457247);Rycerowa Kopa;1901.0
+257;POINT (420598.3599665 5451061.10534209);Kniaziowa Kopa;1804.0
+259;POINT (410218.573898888 5449728.81083694);Czarna Kopa;1670.0
+265;POINT (435052.923210036 5447947.03174863);Gankowa Strażnica;1875.0
+285;POINT (436641.621870144 5448875.34798098);Turnia nad Polaną;1804.0
+382;POINT (426037.635894901 5450819.3857508);Zadnia Rycerowa Kopa;1958.0
+383;POINT (423437.604047149 5448100.72242581);Małe Krzyżne Liptowskie;1919.0
+384;POINT (423679.532661385 5451097.09005805);Niżnia Magura Rycerowa;1785.0
+385;POINT (424211.87657217 5451107.323104);Pośrednia Magura Rycerowa;1933.0
+386;POINT (424714.728527931 5450972.57716083);Wyżnia Magura Rycerowa;1995.0
+387;POINT (425249.54542122 5450268.02191395);Wielka Kopa Koprowa;2052.0
+389;POINT (426281.067399686 5450314.03959136);Mała Garajova Kopa;1929.0
+390;POINT (426723.42273717 5450162.79951576);Zadnia Garajowa Kopa;1949.0
+396;POINT (427711.570199685 5451714.79708945);Niżnia Walentkowa Baszta;2129.0
+397;POINT (427732.235823854 5451777.63526051);Wielka Walentkowa Czuba;2128.0
+398;POINT (427769.378185599 5451814.45120659);Wyżnia Walentkowa Czuba;2114.0
+399;POINT (427793.10649913 5451848.174284);Pośrednia Walentkowa Czuba;2107.0
+400;POINT (427830.056704968 5451928.77821954);Mała Walentkowa Czuba;2108.0
+404;POINT (430099.004719425 5449597.86794212);Szpiglasowy Ząb;2120.0
+409;POINT (430559.101640292 5449087.76680756);Turniczka Chałubińskiego;2073.0
+410;POINT (431627.170645065 5448442.38663779);Mięguszowiecki Szczyt Pośredni;2389.0
+412;POINT (431596.812957059 5448486.24697573);Igła Milówki;2355.0
+418;POINT (422850.282405047 5453938.9065592);Suchy Wierch Kondracki;1895.0
+422;POINT (424078.510147211 5453810.02501956);Goryczkowa Czuba;1911.0
+429;POINT (427610.237524736 5447798.71823199);Skrajna Garajowa Turnia;2270.0
+483;POINT (430730.863125323 5447995.51274665);Koprowa Kopa;2312.0
